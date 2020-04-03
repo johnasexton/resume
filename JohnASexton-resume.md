@@ -1,13 +1,11 @@
----
-name: John A. Sexton
-title: Staff Software Engineer
-Focus areas: Platform SRE | DevOps Architecture | Cloud Architecture | CICD | DevOps Thought Leadership | Public Speaker
----
+# Resume - March 2020
+<table>
+<tr><td>**Name:**</td> <td>**John A. Sexton**</td></tr>
+<tr><td>**Title:**</td> <td>_Staff Software Engineer_</td></tr>
+<tr><td>**Focus areas:**</td> <td>_Platform SRE | DevOps Architecture | Cloud Architecture | CICD | DevOps Thought Leadership | Public Speaker_</td></tr>
+<tr><td>**Profile:**</td><td>[LinkedIn](https://www.linkedin.com/in/john-sexton-8b943a18/)</td></tr>
+</table>
 
-#### Name: John A. Sexton
-Title: _Staff Software Engineer_ <br>
-Focus areas: _Platform SRE | DevOps Architecture | Cloud Architecture | CICD | DevOps Thought Leadership | Public Speaker_ <br>
-[LinkedIn](https://www.linkedin.com/in/john-sexton-8b943a18/)
 
 ### **SUMMARY**
 > Staff Software Engineer specializing in Platform Site Reliability Engineering (SRE) and DevOps; Responsible for DevOps automation, configuration management, Infrastructure as Code (IaC), source control management (SCM), audit, compliance, test automation, and security compliance in large enterprise, mission critical and core revenue environments; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry white papers like the annual DORA State of DevOps Report
