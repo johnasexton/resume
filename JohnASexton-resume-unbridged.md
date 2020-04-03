@@ -3,7 +3,7 @@
 <tr><td>Name:</td> <td>John A. Sexton</td></tr>
 <tr><td>Title:</td> <td>Staff Software Engineer</td></tr>
 <tr><td>Focus areas:</td> <td>Platform SRE | DevOps Architecture | Cloud Architecture | CICD | DevOps Thought Leadership | Public Speaker</td></tr>
-<tr><td>Profile:</td><td>[LinkedIn](https://www.linkedin.com/in/john-sexton-8b943a18/)</td></tr>
+<tr><td>Profile:</td><td><a href="https://www.linkedin.com/in/john-sexton-8b943a18/">LinkedIn</a></td></tr>
 </table>
 
 ### **SUMMARY**
