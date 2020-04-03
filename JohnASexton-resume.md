@@ -61,41 +61,34 @@ Esablished innersourcing model via the MOCHA Council, HR Talent Acquisition & L&
 Function as GitMaster for OC/OM & RedFrog Team.
 * Manage all source code activities with the DevOps team. Established new Team practice of using the  “gitflow” branching and merging design pattern. Perform all FEATURE and RELEASE branch creation while performing and presiding over merges and merge conflict resolution task assignment in GitLab.
 
-**Verizon, Alpharetta, GA	2000 – 2016** <br>
+**Company: Verizon, Alpharetta, GA** <br>
+**Dates: 2013 – 2016** <br>
 **Title: Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
+_Dates: 2000-2013_
 _Previous Titles: Senior Systems Administrator (MTS-III), Senior Systems Administrator (MTS-II), Systems Administrator (MTS-I)_
-* Areas of responsibility included automation of the Jenkins continuous delivery pipeline, designing business processes, SDLC governance, disaster recovery planning, test automation, enterprise monitoring, and configuration management for WAN scope applications. * Performed regulatory compliance officer role for large application portfolios - security scan audits, remediation, and SOX, PCI, GSAM compliance certification. Accomplishments include:
-
+* Areas of responsibility included automation of the Jenkins continuous delivery pipeline, designing business processes, SDLC governance, disaster recovery planning, test automation, enterprise monitoring, and configuration management for WAN scope applications * Performed regulatory compliance officer role for large application portfolios - security scan audits, remediation, and SOX, PCI, GSAM compliance certification.
+* Accomplishments include:
 * Migrated SDLC team from continuous integration architecture to continuous delivery pipeline
-* Implemented Blue | Green methodology using geographically distributed cluster switching at Netscaler hardware load balancer level enabling fast cut production code switching
+* Implemented Blue | Green methodology using geographically distributed cluster switching at GSLB Netscaler hardware load balancer level enabling fast cut production code switching
 * Implemented automated testing to meet continuous delivery goals: automated Jenkins continuous integration pipeline by developing custom shell scripts containing cURL calls to REST API’s to include:
 J2EE code base unit tests with J-unit
 * Web services and SOA interface tests with CA-LISA / CA-DevTest
-* System instrumentation testing with CA-APM
-* System under test loads with HP LoadRunner
+* Configured System instrumentation testing with CA-APM
+* Automated System under test loads with HP LoadRunner
 * Designed and implemented BI data warehouse on Oracle OBIA for Verizon enterprise customer sales system: performed system architecture including scaling, storage, system resources, security, high availability & clustering, and configuration management tasks
 Earned 5 CIO recognitions in the last 2 years in a company of over 16,000 IT employees:
 * Migrated a legacy revenue application & decommissioned legacy systems to remediate security vulnerabilities
 * Remediated 53 critical security vulnerabilities in 30 days, clearing a PCI/SOX-compliant application
 * Drove a core revenue application to Blue | Green globally dispersed cluster switching functionality
 * Team of 5 awarded 1st place in Verizon DevOps Challenge judged by internal DevOps Council and external cloud industry judges from Microsoft, IBM, Mirantis, and Pivotal
-* Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon
+* Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon by virtualizing 120 services in a single day
 
-Lead Systems Architect & Senior Systems Administrator (MTS-I thru MTS-IV)
-* As a member of a unix/linux root SysAdmin core infrastructure and middleware team, managed all HPUX, Solaris, AIX, IRIX and Linux servers within a major IT division. During this time, also managed architecture and operations needs for data warehousing AppDev teams performing all data center management, vendor management, HA clustering, SAN, TCP/IP networking operations roles within the organization.
-
-* Received VP "Run Toward the Fire" recognition at Executive Town Hall for datacenter migration crisis management
-* Migrated physical servers between datacenter locations
-* Migrated datacenter functionality from a satellite to a core operations datacenter and from core operations to an acquisition entity’s datacenter
-* Created architecture for data warehousing solution & implemented servers across intranet and internet datacenters spanning multiple firewalls, and DMZ points across WAN footprint
-* Designed systems, storage, and network architecture for multiple Informatica, Oracle RAC, Business Objects, Microstrategy or OBIEE/OBIA data warehouse solutions on HPUX, Linux, and Solaris
-* Designed, built and managed Storage Area Network for satellite datacenter including enterprise storage solution for clustered shared storage, backup, speed and ease of upgrade
-* Led database consolidation project to migrate multiple standalone HPUX based Oracle databases to single Oracle 10G Grid running 2 RAC clusters under grid control management on Red Hat Enterprise Linux running on commodity hardware: HP ProLiant Servers, Fibre Channel HBAs, running SAN connected fiber, to an Enterprise Storage frame
-* Designed, built and managed Microsoft MSCS SQL Server clusters (multi-instance failover) and managed MSCS file server instances & IIS Network Load Balanced clusters
-
-##### **OTHER RELEVANT EXPERIENCE**
-* CDI - Systems Administrator (contractor for GTE)
-* Computer Generated Solutions - Technical Representative (contractor for IBM) on SOWs for Merrill Lynch, Ernst & Young, PwC & GM
+##### **OTHER RELEVANT EXPERIENCE** <br>
+**Company: CDI, Tampa, FL 1999-2000** <br>
+_Title: Systems Administrator (contractor for GTE)_ <br>
+<br>
+**Company: Computer Generated Solutions (CGS) 1997-1999** <br>
+_Title: Technical Representative (contractor for IBM) on SOWs for Merrill Lynch, Ernst & Young, PwC & GM_ <br>
 
 ##### **PROFESSIONAL DEVELOPMENT**
 <table>

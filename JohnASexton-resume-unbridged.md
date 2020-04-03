@@ -35,7 +35,6 @@ _Previous Titles: Staff DevOps Engineer, Lead DevOps Engineer, D2C DevOps Archit
 * Define overarching DevOps Architecture
 * evaluate current level of DevOps Maturity against an objective DevOps Maturity Model
 * develop long term adoption road maps, for direct to consumer, core revenue, ordering, line of business.
-
 * Perform DevOps Engineering automation and integration tasks, as well as
 * implement and iteratively improve Configuration Management practice to realize previously mentioned architecture,
 * design and road map targets.
@@ -63,8 +62,10 @@ Esablished innersourcing model via the MOCHA Council, HR Talent Acquisition & L&
 Function as GitMaster for OC/OM & RedFrog Team.
 * Manage all source code activities with the DevOps team. Established new Team practice of using the  “gitflow” branching and merging design pattern. Perform all FEATURE and RELEASE branch creation while performing and presiding over merges and merge conflict resolution task assignment in GitLab.
 
-**Verizon, Alpharetta, GA	2000 – 2016** <br>
+**Company: Verizon, Alpharetta, GA** <br>
+**Dates: 2013 – 2016** <br>
 **Title: Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
+_Dates: 2000-2013_
 _Previous Titles: Senior Systems Administrator (MTS-III), Senior Systems Administrator (MTS-II), Systems Administrator (MTS-I)_
 
 * Areas of responsibility included automation of the Jenkins continuous delivery pipeline, designing business processes, SDLC governance, disaster recovery planning, test automation, enterprise monitoring, and configuration management for WAN scope applications. * Performed regulatory compliance officer role for large application portfolios - security scan audits, remediation, and SOX, PCI, GSAM compliance certification. Accomplishments include:
@@ -84,7 +85,9 @@ Earned 5 CIO recognitions in the last 2 years in a company of over 16,000 IT emp
 * Team of 5 awarded 1st place in Verizon DevOps Challenge judged by internal DevOps Council and external cloud industry judges from Microsoft, IBM, Mirantis, and Pivotal
 * Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon
 
-Lead Systems Architect & Senior Systems Administrator (MTS-I thru MTS-IV)
+**Company: Verizon, Tampa, FL** <br>
+**Dates: 2000 – 2013** <br>
+**Titles: Systems Architect & Senior Systems Administrator (MTS-III), Senior Systems Administrator (MTS-II), Systems Administrator (MTS-I)** <br>
 * As a member of a unix/linux root SysAdmin core infrastructure and middleware team, managed all HPUX, Solaris, AIX, IRIX and Linux servers within a major IT division. During this time, also managed architecture and operations needs for data warehousing AppDev teams performing all data center management, vendor management, HA clustering, SAN, TCP/IP networking operations roles within the organization.
 
 * Received VP "Run Toward the Fire" recognition at Executive Town Hall for datacenter migration crisis management
@@ -96,9 +99,12 @@ Lead Systems Architect & Senior Systems Administrator (MTS-I thru MTS-IV)
 * Led database consolidation project to migrate multiple standalone HPUX based Oracle databases to single Oracle 10G Grid running 2 RAC clusters under grid control management on Red Hat Enterprise Linux running on commodity hardware: HP ProLiant Servers, Fibre Channel HBAs, running SAN connected fiber, to an Enterprise Storage frame
 * Designed, built and managed Microsoft MSCS SQL Server clusters (multi-instance failover) and managed MSCS file server instances & IIS Network Load Balanced clusters
 
-##### **OTHER RELEVANT EXPERIENCE**
-* CDI - Systems Administrator (contractor for GTE)
-* Computer Generated Solutions - Technical Representative (contractor for IBM) on SOWs for Merrill Lynch, Ernst & Young, PwC & GM
+##### **OTHER RELEVANT EXPERIENCE** <br>
+**Company: CDI, Tampa, FL 1999-2000** <br>
+_Title: Systems Administrator (contractor for GTE)_ <br>
+<br>
+**Company: Computer Generated Solutions (CGS) 1997-1999** <br>
+_Title: Technical Representative (contractor for IBM) on SOWs for Merrill Lynch, Ernst & Young, PwC & GM_ <br>
 
 ##### **PROFESSIONAL DEVELOPMENT**
 <table>
