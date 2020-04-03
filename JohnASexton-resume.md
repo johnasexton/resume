@@ -83,13 +83,6 @@ Earned 5 CIO recognitions in the last 2 years in a company of over 16,000 IT emp
 * Team of 5 awarded 1st place in Verizon DevOps Challenge judged by internal DevOps Council and external cloud industry judges from Microsoft, IBM, Mirantis, and Pivotal
 * Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon by virtualizing 120 services in a single day
 
-##### **OTHER RELEVANT EXPERIENCE** <br>
-**Company: CDI, Tampa, FL 1999-2000** <br>
-_Title: Systems Administrator (contractor for GTE)_ <br>
-<br>
-**Company: Computer Generated Solutions (CGS) 1997-1999** <br>
-_Title: Technical Representative (contractor for IBM) on SOWs for Merrill Lynch, Ernst & Young, PwC & GM_ <br>
-
 ##### **PROFESSIONAL DEVELOPMENT**
 <table>
 
