@@ -1,7 +1,7 @@
 ---
 name: John A. Sexton
 title: Staff Software Engineer
-Focus areas: Platform SRE | DevOps Architecture | Cloud Architecture | CICD | DevOps Thought Leader | Public Speaker
+Focus areas: Platform SRE | DevOps Architecture | Cloud Architecture | CICD | DevOps Thought Leadership | Public Speaker
 ---
 
 **Name: _John A. Sexton - [LinkedIn](https://www.linkedin.com/in/john-sexton-8b943a18/)_ <br>
@@ -9,23 +9,20 @@ Title: _Staff Software Engineer_ <br>
 Focus areas: _Platform SRE | DevOps Architecture | Cloud Architecture | CICD | DevOps Thought Leadership | Public Speaker_**
 
 ### **SUMMARY**
-Staff Software Engineer specializing in Platform Site Reliability Engineering (SRE) and DevOps; Responsible for DevOps automation, configuration management, Infrastructure as Code (IaC), source control management (SCM), audit, compliance, test automation, and security compliance in a large enterprise, mission critical and core revenue environment; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry whitepapers like the annual DORA State of DevOps Report
+Staff Software Engineer specializing in Platform Site Reliability Engineering (SRE) and DevOps; Responsible for DevOps automation, configuration management, Infrastructure as Code (IaC), source control management (SCM), audit, compliance, test automation, and security compliance in large enterprise, mission critical and core revenue environments; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry white papers like the annual DORA State of DevOps Report
 
 ### **CORE COMPETENCIES**
-**Cloud Platforms:** Google Cloud (GCP), Amazon Web Services (AWS), Mirantis Openstack Cloud, IBM SoftLayer, Microsoft Azure, VmWare vSphere, Oracle Exadata Cloud, Heroku <br>
+**Cloud Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS) <br>
 **GCP Tooling:** GKE, GCE, GCS, PubSub, Spanner, Datastore, Dataflow, GCLB, CloudArmor, gcloudSDK <br>
-**Containerization/Serverless:** Kubernetes, AppEngine, CloudRun, Anthos, KNative, Docker, Rocket, Helm, Tiller <br>
-**CI/CD:** Spinnaker, Helm, Jenkins-X, Jenkins, Cloudbees Enterprise Jenkins, Hudson <br>
-**Configuration Management:** Docker, Chef, Ansible <br>
-**Source Control Management SCM:** Git, GitLab Enterprise, GitHub, Subversion (SVN) <br>
+**Containerization:** Kubernetes, AppEngine, CloudRun, Docker <br>
+**CI/CD:** Spinnaker, Helm, Jenkins-X, Jenkins <br>
+**Infrastructure as Code (IaC):** Terraform <br>
+**Configuration Management:** Docker, Chef <br>
+**Source Control Management SCM:** git-scm.com, GitLab Enterprise, GitHub, Subversion (SVN) <br>
 **Languages:** Groovy, Bash, Python, Ruby, SQL, REST, Java <br>
+**Markup/Markdown:** yaml, json, html, markdown, xml <br>
 **Tooling:** Nginx, Prometheus, Grafana, Stackdriver <br>
-**OS:** Linux (Alpine, CoreOS, Ubuntu, RHEL, Debian), HPUX, Solaris <br>
-**PaaS:** RedHat Openshift, Pivotal Cloud Foundry <br>
-Jenkins, GIT, Jira	• Oracle RAC, OBIA, Informatica	• CA-APM, CA-LISA
-WebLogic, SOA, Apache	• IIS, MS-SQL, TFS, WebSphere-MQ	• VmWare ESXi <br>
-**Former Tooling:**
-Mirantis Openstack, Pivotal Cloud Foundry, RHEL, HPUX, Solaris, Windows Server, Oracle RAC, OBIA, Informatica, CA-APM, CA-LISA, WebLogic, SOA, Apache, IIS, MS-SQL, TFS, WebSphere-MQ, VmWare ESXi <br>
+**OS:** Linux (Alpine, CoreOS, Ubuntu, RHEL, Debian) <br>
 **Planning:** Jira <br>
 
 ##### **PROFESSIONAL EXPERIENCE** <br><br>
