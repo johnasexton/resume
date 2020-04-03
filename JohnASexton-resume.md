@@ -4,26 +4,27 @@ title: Staff Software Engineer
 Focus areas: Platform SRE | DevOps Architecture | Cloud Architecture | CICD | DevOps Thought Leadership | Public Speaker
 ---
 
-**Name: _John A. Sexton - [LinkedIn](https://www.linkedin.com/in/john-sexton-8b943a18/)_ <br>
+#### Name: John A. Sexton
 Title: _Staff Software Engineer_ <br>
-Focus areas: _Platform SRE | DevOps Architecture | Cloud Architecture | CICD | DevOps Thought Leadership | Public Speaker_**
+Focus areas: _Platform SRE | DevOps Architecture | Cloud Architecture | CICD | DevOps Thought Leadership | Public Speaker_ <br>
+[LinkedIn](https://www.linkedin.com/in/john-sexton-8b943a18/)
 
 ### **SUMMARY**
-Staff Software Engineer specializing in Platform Site Reliability Engineering (SRE) and DevOps; Responsible for DevOps automation, configuration management, Infrastructure as Code (IaC), source control management (SCM), audit, compliance, test automation, and security compliance in large enterprise, mission critical and core revenue environments; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry white papers like the annual DORA State of DevOps Report
+> Staff Software Engineer specializing in Platform Site Reliability Engineering (SRE) and DevOps; Responsible for DevOps automation, configuration management, Infrastructure as Code (IaC), source control management (SCM), audit, compliance, test automation, and security compliance in large enterprise, mission critical and core revenue environments; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry white papers like the annual DORA State of DevOps Report
 
 ### **CORE COMPETENCIES**
-**Cloud Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS) <br>
-**GCP Tooling:** GKE, GCE, GCS, PubSub, Spanner, Datastore, Dataflow, GCLB, CloudArmor, gcloudSDK <br>
-**Containerization:** Kubernetes, AppEngine, CloudRun, Docker <br>
-**CI/CD:** Spinnaker, Helm, Jenkins-X, Jenkins <br>
-**Infrastructure as Code (IaC):** Terraform <br>
-**Configuration Management:** Docker, Chef <br>
-**Source Control Management SCM:** git-scm.com, GitLab Enterprise, GitHub, Subversion (SVN) <br>
-**Languages:** Groovy, Bash, Python, Ruby, SQL, REST, Java <br>
-**Markup/Markdown:** yaml, json, html, markdown, xml <br>
-**Tooling:** Nginx, Prometheus, Grafana, Stackdriver <br>
-**OS:** Linux (Alpine, CoreOS, Ubuntu, RHEL, Debian) <br>
-**Planning:** Jira <br>
+* **Cloud Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS) <br>
+* **GCP Tooling:** GKE, GCE, GCS, PubSub, Spanner, Datastore, Dataflow, GCLB, CloudArmor, gcloudSDK <br>
+* **Containerization:** Kubernetes, AppEngine, CloudRun, Docker <br>
+* **CI/CD:** Spinnaker, Helm, Jenkins-X, Jenkins <br>
+* **Infrastructure as Code (IaC):** Terraform <br>
+* **Configuration Management:** Docker, Chef <br>
+* **Source Control Management SCM:** git-scm.com, GitLab Enterprise, GitHub, Subversion (SVN) <br>
+* **Languages:** Groovy, Bash, Python, Ruby, SQL, REST, Java <br>
+* **Markup/Markdown:** yaml, json, html, markdown, xml <br>
+* **Tooling:** Nginx, Prometheus, Grafana, Stackdriver <br>
+* **OS:** Linux (Alpine, CoreOS, Ubuntu, RHEL, Debian) <br>
+* **Planning:** Jira <br>
 
 ##### **PROFESSIONAL EXPERIENCE** <br><br>
 **Macy's Technology, Duluth GA 2016-present** <br>
@@ -41,8 +42,9 @@ DevOps Engineer having automated BAT, Smoke and Regression tests of our nonprod 
 Involved with Release Mgmt for OC/OM & RedFrog as a backup Release Manager, or backup OA during releases. Also pushing multiple process improvement projects in the release management area like timeline and toll gate standards, improved automation, transitioning OA tasks to delivery teams to enable self service & remove bottlenecks, improving environment provisioning practices to eliminate prod and nonprod parity issues.
 Function as GitMaster for OC/OM & RedFrog Team. Manage all source code activities with the DevOps team. Established new Team practice of using the  “gitflow” branching and merging design pattern. Perform all FEATURE and RELEASE branch creation while performing and presiding over merges and merge conflict resolution task assignment in GitLab.
 
-Verizon, Alpharetta, GA	2000 – 2016
-Lead Systems Architect & Senior Systems Administrator (MTS-IV)
+**Verizon, Alpharetta, GA	2000 – 2016** <br>
+**Title: Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
+_Previous Titles: Senior Systems Administrator (MTS-III), Senior Systems Administrator (MTS-II), Systems Administrator (MTS-I)_
 Areas of responsibility included automation of the Jenkins continuous delivery pipeline, designing business processes, SDLC governance, disaster recovery planning, test automation, enterprise monitoring, and configuration management for WAN scope applications. Performed regulatory compliance officer role for large application portfolios - security scan audits, remediation, and SOX, PCI, GSAM compliance certification. Accomplishments include:
 
 Migrated SDLC team from continuous integration architecture to continuous delivery pipeline
