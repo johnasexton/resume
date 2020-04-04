@@ -1,4 +1,4 @@
-# Resume - March 2020
+# Resume: John A. Sexton Resume complete history
 <table>
 
 <tr>
@@ -21,27 +21,15 @@
 <td><a href="https://www.linkedin.com/in/john-sexton-8b943a18/">LinkedIn</a></td>
 </tr>
 
+<tr>
+<td>LastUpdate:</td>
+<td>April 2020</td>
+</tr>
+
 </table>
 
 ### SUMMARY
 > Staff Software Engineer specializing in Platform Site Reliability Engineering (SRE) and DevOps; Responsible for DevOps automation, configuration management, Infrastructure as Code (IaC), source control management (SCM), audit, compliance, test automation, and security compliance in a large enterprise, mission critical and core revenue environment; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry whitepapers like the annual DORA State of DevOps Report
-
-### CORE COMPETENCIES
-* **Cloud Platforms:** Google Cloud (GCP), Amazon Web Services (AWS), Mirantis Openstack Cloud, IBM SoftLayer, Microsoft Azure, VmWare vSphere, Oracle Exadata Cloud, Heroku <br>
-* **GCP Tooling:** GKE, GCE, GCS, PubSub, Spanner, Datastore, Dataflow, GCLB, CloudArmor, gcloudSDK <br>
-* **Containerization/Serverless:** Kubernetes, AppEngine, CloudRun, Anthos, KNative, Docker, Rocket, Helm, Tiller <br>
-* **CI/CD:** Spinnaker, Helm, Jenkins-X, Jenkins, Cloudbees Enterprise Jenkins, Hudson <br>
-* **Configuration Management:** Docker, Chef, Ansible <br>
-* **Source Control Management SCM:** Git, GitLab Enterprise, GitHub, Subversion (SVN) <br>
-* **Languages:** Groovy, Bash, Python, Ruby, SQL, REST, Java <br>
-* **Tooling:** Nginx, Prometheus, Grafana, Stackdriver <br>
-* **OS:** Linux (Alpine, CoreOS, Ubuntu, RHEL, Debian), HPUX, Solaris <br>
-* **PaaS:** RedHat Openshift, Pivotal Cloud Foundry <br>
-Jenkins, GIT, Jira	• Oracle RAC, OBIA, Informatica	• CA-APM, CA-LISA
-WebLogic, SOA, Apache	• IIS, MS-SQL, TFS, WebSphere-MQ	• VmWare ESXi <br>
-* **Former Tooling:**
-Mirantis Openstack, Pivotal Cloud Foundry, RHEL, HPUX, Solaris, Windows Server, Oracle RAC, OBIA, Informatica, CA-APM, CA-LISA, WebLogic, SOA, Apache, IIS, MS-SQL, TFS, WebSphere-MQ, VmWare ESXi <br>
-* **Planning:** Jira <br>
 
 ### PROFESSIONAL EXPERIENCE <br><br>
 **Macy's Technology, Duluth GA 2016-present** <br>
@@ -121,6 +109,38 @@ _Title: Systems Administrator (contractor for GTE)_ <br>
 <br>
 **Company: Computer Generated Solutions (CGS) 1997-1999** <br>
 _Title: Technical Representative (contractor for IBM) on SOWs for Merrill Lynch, Ernst & Young, PwC & GM_ <br>
+
+### CORE COMPETENCIES
+* **Cloud Platforms:** Google Cloud Platform (GCP) <br>
+* **GCP Tooling:** GKE, GCE, GCS, PubSub, Spanner, Datastore, Dataflow, GCLB, CloudArmor, IaP, IAM, VPC, gcloudSDK <br>
+* **Containerization:** Kubernetes, AppEngine, Docker, Dockerhub, gcr.io <br>
+* **Observability:** Prometheus, Grafana, Stackdriver <br>
+* **Ingress:** Nginx <br>
+* **CI/CD:** Spinnaker, Helm, Jenkins-X, Jenkins, Maven, Artifactory, Sonarqube, Checkmarx <br>
+* **Infrastructure as Code (IaC):** Terraform <br>
+* **Configuration Management:** Docker, Chef <br>
+* **Source Control Management SCM:** git-scm.com, GitLab Enterprise, GitLab, GitHub, Subversion (SVN) <br>
+* **Languages:** Groovy, Bash, Python, SQL, REST, Ruby, Java <br>
+* **Markup/Markdown:** yaml, json, markdown, html, xml <br>
+* **OS:** Linux (Alpine, CoreOS, Ubuntu, CentOS, RedHat Enterprise Linux RHEL) <br>
+* **Planning:** Jira <br>
+
+### CORE COMPETENCIES
+* **Cloud Platforms:** Google Cloud (GCP), Amazon Web Services (AWS), Mirantis Openstack Cloud, IBM SoftLayer, Microsoft Azure, VmWare vSphere, Oracle Exadata Cloud, Heroku <br>
+* **GCP Tooling:** GKE, GCE, GCS, PubSub, Spanner, Datastore, Dataflow, GCLB, CloudArmor, gcloudSDK <br>
+* **Containerization/Serverless:** Kubernetes, AppEngine, CloudRun, Anthos, KNative, Docker, Rocket, Helm, Tiller <br>
+* **CI/CD:** Spinnaker, Helm, Jenkins-X, Jenkins, Cloudbees Enterprise Jenkins, Hudson <br>
+* **Configuration Management:** Docker, Chef, Ansible <br>
+* **Source Control Management SCM:** Git, GitLab Enterprise, GitHub, Subversion (SVN) <br>
+* **Languages:** Groovy, Bash, Python, Ruby, SQL, REST, Java <br>
+* **Tooling:** Nginx, Prometheus, Grafana, Stackdriver <br>
+* **OS:** Linux (Alpine, CoreOS, Ubuntu, RHEL, Debian), HPUX, Solaris <br>
+* **PaaS:** RedHat Openshift, Pivotal Cloud Foundry <br>
+Jenkins, GIT, Jira	• Oracle RAC, OBIA, Informatica	• CA-APM, CA-LISA
+WebLogic, SOA, Apache	• IIS, MS-SQL, TFS, WebSphere-MQ	• VmWare ESXi <br>
+* **Former Tooling:**
+Mirantis Openstack, Pivotal Cloud Foundry, RHEL, HPUX, Solaris, Windows Server, Oracle RAC, OBIA, Informatica, CA-APM, CA-LISA, WebLogic, SOA, Apache, IIS, MS-SQL, TFS, WebSphere-MQ, VmWare ESXi <br>
+* **Planning:** Jira <br>
 
 ### PROFESSIONAL DEVELOPMENT
 <table>
