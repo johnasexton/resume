@@ -6,7 +6,6 @@
 <tr><td>Profile:</td><td><a href="https://www.linkedin.com/in/john-sexton-8b943a18/">LinkedIn</a></td></tr>
 </table>
 
-
 ### SUMMARY
 > Staff Software Engineer specializing in Platform Site Reliability Engineering (SRE) and DevOps; Responsible for DevOps automation, configuration management, Infrastructure as Code (IaC), source control management (SCM), audit, compliance, test automation, and security compliance in large enterprise, mission critical and core revenue environments; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry white papers like the annual DORA State of DevOps Report
 
@@ -22,14 +21,13 @@
 * **Source Control Management SCM:** git-scm.com, GitLab Enterprise, GitHub, Subversion (SVN) <br>
 * **Languages:** Groovy, Bash, Python, SQL, REST, Ruby, Java <br>
 * **Markup/Markdown:** yaml, json, markdown, html, xml <br>
-* **OS:** Linux (Alpine, CoreOS, Ubuntu, RHEL, Debian) <br>
+* **OS:** Linux (Alpine, CoreOS, Ubuntu, CentOS, RHEL) <br>
 * **Planning:** Jira <br>
 
 ### PROFESSIONAL EXPERIENCE <br>
 **Macy's Technology, Duluth GA 2016-present** <br>
 **Title: Staff Software Engineer** <br>
 _Previous Titles: Staff DevOps Engineer, Lead DevOps Engineer, D2C DevOps Architecture & Systems Specialis, Development, D2C DevOps Architecture_
-
 * Drive Continuous Integration, Continuous Delivery and Continuous Deployment automation practices throughout Macys Systems & Technology as a thought leader
 * Define overarching DevOps Architecture
 * evaluate current level of DevOps Maturity against an objective DevOps Maturity Model
@@ -65,7 +63,7 @@ Function as GitMaster for OC/OM & RedFrog Team.
 **Verizon, Alpharetta, GA 2013 – 2016** <br>
 **Title: Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
 _Verizon, Tampa, FL 2000-2013_ <br>
-_Previous Titles: Senior Systems Administrator (MTS-III), Senior Systems Administrator (MTS-II), Systems Administrator (MTS-I)_
+_Titles: Senior Systems Administrator (MTS-III), Senior Systems Administrator (MTS-II), Systems Administrator (MTS-I)_
 * Areas of responsibility included automation of the Jenkins continuous delivery pipeline, designing business processes, SDLC governance, disaster recovery planning, test automation, enterprise monitoring, and configuration management for WAN scope applications * Performed regulatory compliance officer role for large application portfolios - security scan audits, remediation, and SOX, PCI, GSAM compliance certification.
 * Accomplishments include:
 * Migrated SDLC team from continuous integration architecture to continuous delivery pipeline
