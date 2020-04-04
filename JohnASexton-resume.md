@@ -7,24 +7,25 @@
 </table>
 
 
-### **SUMMARY**
+### SUMMARY
 > Staff Software Engineer specializing in Platform Site Reliability Engineering (SRE) and DevOps; Responsible for DevOps automation, configuration management, Infrastructure as Code (IaC), source control management (SCM), audit, compliance, test automation, and security compliance in large enterprise, mission critical and core revenue environments; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry white papers like the annual DORA State of DevOps Report
 
-### **CORE COMPETENCIES**
-* **Cloud Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS) <br>
-* **GCP Tooling:** GKE, GCE, GCS, PubSub, Spanner, Datastore, Dataflow, GCLB, CloudArmor, gcloudSDK <br>
-* **Containerization:** Kubernetes, AppEngine, CloudRun, Docker <br>
+### CORE COMPETENCIES
+* **Cloud Platforms:** Google Cloud Platform (GCP) <br>
+* **GCP Tooling:** GKE, GCE, GCS, PubSub, Spanner, Datastore, Dataflow, GCLB, CloudArmor, IaP, gcloudSDK <br>
+* **Containerization:** Kubernetes, AppEngine, Docker, Dockerhub, gcr.io <br>
+* **Observability:** Prometheus, Grafana, Stackdriver, Jaeger <br>
+* **Ingress:** Nginx <br>
 * **CI/CD:** Spinnaker, Helm, Jenkins-X, Jenkins <br>
 * **Infrastructure as Code (IaC):** Terraform <br>
 * **Configuration Management:** Docker, Chef <br>
 * **Source Control Management SCM:** git-scm.com, GitLab Enterprise, GitHub, Subversion (SVN) <br>
-* **Languages:** Groovy, Bash, Python, Ruby, SQL, REST, Java <br>
-* **Markup/Markdown:** yaml, json, html, markdown, xml <br>
-* **Tooling:** Nginx, Prometheus, Grafana, Stackdriver <br>
+* **Languages:** Groovy, Bash, Python, SQL, REST, Ruby, Java <br>
+* **Markup/Markdown:** yaml, json, markdown, html, xml <br>
 * **OS:** Linux (Alpine, CoreOS, Ubuntu, RHEL, Debian) <br>
 * **Planning:** Jira <br>
 
-##### **PROFESSIONAL EXPERIENCE** <br><br>
+### PROFESSIONAL EXPERIENCE <br>
 **Macy's Technology, Duluth GA 2016-present** <br>
 **Title: Staff Software Engineer** <br>
 _Previous Titles: Staff DevOps Engineer, Lead DevOps Engineer, D2C DevOps Architecture & Systems Specialis, Development, D2C DevOps Architecture_
@@ -61,10 +62,9 @@ Esablished innersourcing model via the MOCHA Council, HR Talent Acquisition & L&
 Function as GitMaster for OC/OM & RedFrog Team.
 * Manage all source code activities with the DevOps team. Established new Team practice of using the  “gitflow” branching and merging design pattern. Perform all FEATURE and RELEASE branch creation while performing and presiding over merges and merge conflict resolution task assignment in GitLab.
 
-**Company: Verizon, Alpharetta, GA** <br>
-**Dates: 2013 – 2016** <br>
+**Verizon, Alpharetta, GA 2013 – 2016** <br>
 **Title: Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
-_Dates: 2000-2013_
+_Verizon, Tampa, FL 2000-2013_ <br>
 _Previous Titles: Senior Systems Administrator (MTS-III), Senior Systems Administrator (MTS-II), Systems Administrator (MTS-I)_
 * Areas of responsibility included automation of the Jenkins continuous delivery pipeline, designing business processes, SDLC governance, disaster recovery planning, test automation, enterprise monitoring, and configuration management for WAN scope applications * Performed regulatory compliance officer role for large application portfolios - security scan audits, remediation, and SOX, PCI, GSAM compliance certification.
 * Accomplishments include:
@@ -83,7 +83,7 @@ Earned 5 CIO recognitions in the last 2 years in a company of over 16,000 IT emp
 * Team of 5 awarded 1st place in Verizon DevOps Challenge judged by internal DevOps Council and external cloud industry judges from Microsoft, IBM, Mirantis, and Pivotal
 * Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon by virtualizing 120 services in a single day
 
-##### **PROFESSIONAL DEVELOPMENT**
+### PROFESSIONAL DEVELOPMENT TRAINING
 <table>
 
 <tr>
@@ -106,19 +106,19 @@ Earned 5 CIO recognitions in the last 2 years in a company of over 16,000 IT emp
 
 </table>
 
-##### **RECENT CONFERENCES ATTENDED**
+### RECENT CONFERENCES ATTENDED
 <table>
 
 <tr>
 <td>Google Cloud Next '18</td>
 <td>DevOps Days 2019</td>
-<td>Jenkins-X</td>
+<td>Jenkins-X 2019</td>
 </tr>
 
 <tr>
-<td>Jenkins World</td>
-<td>Nginx</td>
-<td>Forty8Fifty</td>
+<td>Jenkins Summit 2017</td>
+<td>Nginx 2018</td>
+<td>DevOps Tech Summit 2018</td>
 </tr>
 
 </table>

@@ -6,10 +6,10 @@
 <tr><td>Profile:</td><td><a href="https://www.linkedin.com/in/john-sexton-8b943a18/">LinkedIn</a></td></tr>
 </table>
 
-### **SUMMARY**
+### SUMMARY
 > Staff Software Engineer specializing in Platform Site Reliability Engineering (SRE) and DevOps; Responsible for DevOps automation, configuration management, Infrastructure as Code (IaC), source control management (SCM), audit, compliance, test automation, and security compliance in a large enterprise, mission critical and core revenue environment; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry whitepapers like the annual DORA State of DevOps Report
 
-### **CORE COMPETENCIES**
+### CORE COMPETENCIES
 * **Cloud Platforms:** Google Cloud (GCP), Amazon Web Services (AWS), Mirantis Openstack Cloud, IBM SoftLayer, Microsoft Azure, VmWare vSphere, Oracle Exadata Cloud, Heroku <br>
 * **GCP Tooling:** GKE, GCE, GCS, PubSub, Spanner, Datastore, Dataflow, GCLB, CloudArmor, gcloudSDK <br>
 * **Containerization/Serverless:** Kubernetes, AppEngine, CloudRun, Anthos, KNative, Docker, Rocket, Helm, Tiller <br>
@@ -26,7 +26,7 @@ WebLogic, SOA, Apache	• IIS, MS-SQL, TFS, WebSphere-MQ	• VmWare ESXi <br>
 Mirantis Openstack, Pivotal Cloud Foundry, RHEL, HPUX, Solaris, Windows Server, Oracle RAC, OBIA, Informatica, CA-APM, CA-LISA, WebLogic, SOA, Apache, IIS, MS-SQL, TFS, WebSphere-MQ, VmWare ESXi <br>
 * **Planning:** Jira <br>
 
-##### **PROFESSIONAL EXPERIENCE** <br><br>
+### PROFESSIONAL EXPERIENCE <br><br>
 **Macy's Technology, Duluth GA 2016-present** <br>
 **Title: Staff Software Engineer** <br>
 _Previous Titles: Staff DevOps Engineer, Lead DevOps Engineer, D2C DevOps Architecture & Systems Specialis, Development, D2C DevOps Architecture_
@@ -99,14 +99,14 @@ Earned 5 CIO recognitions in the last 2 years in a company of over 16,000 IT emp
 * Led database consolidation project to migrate multiple standalone HPUX based Oracle databases to single Oracle 10G Grid running 2 RAC clusters under grid control management on Red Hat Enterprise Linux running on commodity hardware: HP ProLiant Servers, Fibre Channel HBAs, running SAN connected fiber, to an Enterprise Storage frame
 * Designed, built and managed Microsoft MSCS SQL Server clusters (multi-instance failover) and managed MSCS file server instances & IIS Network Load Balanced clusters
 
-##### **OTHER RELEVANT EXPERIENCE** <br>
+### OTHER RELEVANT EXPERIENCE <br>
 **Company: CDI, Tampa, FL 1999-2000** <br>
 _Title: Systems Administrator (contractor for GTE)_ <br>
 <br>
 **Company: Computer Generated Solutions (CGS) 1997-1999** <br>
 _Title: Technical Representative (contractor for IBM) on SOWs for Merrill Lynch, Ernst & Young, PwC & GM_ <br>
 
-##### **PROFESSIONAL DEVELOPMENT**
+### PROFESSIONAL DEVELOPMENT
 <table>
 
 <tr>
@@ -129,7 +129,7 @@ _Title: Technical Representative (contractor for IBM) on SOWs for Merrill Lynch,
 
 </table>
 
-##### **RECENT CONFERENCES ATTENDED**
+### RECENT CONFERENCES ATTENDED
 <table>
 
 <tr>
