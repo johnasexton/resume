@@ -1,9 +1,26 @@
 # Resume - March 2020
 <table>
-<tr><td>Name:</td> <td>John A. Sexton</td></tr>
-<tr><td>Title:</td> <td>Staff Software Engineer</td></tr>
-<tr><td>Focus areas:</td> <td>Platform SRE | DevOps Architecture | Cloud Architecture | CICD | DevOps Thought Leadership | Public Speaker</td></tr>
-<tr><td>Profile:</td><td><a href="https://www.linkedin.com/in/john-sexton-8b943a18/">LinkedIn</a></td></tr>
+
+<tr>
+<td>Name:</td>
+<td>John A. Sexton</td>
+</tr>
+
+<tr>
+<td>Title:</td>
+<td>Staff Software Engineer</td>
+</tr>
+
+<tr>
+<td>Focus areas:</td>
+<td>Platform SRE | DevOps Architecture | Cloud Architecture | CICD | Digital Transformation | Public Speaking </td>
+</tr>
+
+<tr>
+<td>Profile:</td>
+<td><a href="https://www.linkedin.com/in/john-sexton-8b943a18/">LinkedIn</a></td>
+</tr>
+
 </table>
 
 ### SUMMARY
@@ -62,36 +79,35 @@ Esablished innersourcing model via the MOCHA Council, HR Talent Acquisition & L&
 Function as GitMaster for OC/OM & RedFrog Team.
 * Manage all source code activities with the DevOps team. Established new Team practice of using the  “gitflow” branching and merging design pattern. Perform all FEATURE and RELEASE branch creation while performing and presiding over merges and merge conflict resolution task assignment in GitLab.
 
-**Company: Verizon, Alpharetta, GA** <br>
-**Dates: 2013 – 2016** <br>
-**Title: Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
-_Dates: 2000-2013_
-_Previous Titles: Senior Systems Administrator (MTS-III), Senior Systems Administrator (MTS-II), Systems Administrator (MTS-I)_
-
-* Areas of responsibility included automation of the Jenkins continuous delivery pipeline, designing business processes, SDLC governance, disaster recovery planning, test automation, enterprise monitoring, and configuration management for WAN scope applications. * Performed regulatory compliance officer role for large application portfolios - security scan audits, remediation, and SOX, PCI, GSAM compliance certification. Accomplishments include:
-
-* Migrated SDLC team from continuous integration architecture to continuous delivery pipeline
-* Implemented Blue | Green methodology using geographically distributed cluster switching at Netscaler hardware load balancer level enabling fast cut production code switching
-* Implemented automated testing to meet continuous delivery goals: automated Jenkins continuous integration pipeline by developing custom shell scripts containing cURL calls to REST API’s to include:
-J2EE code base unit tests with J-unit
-* Web services and SOA interface tests with CA-LISA / CA-DevTest
-* System instrumentation testing with CA-APM
-* System under test loads with HP LoadRunner
-* Designed and implemented BI data warehouse on Oracle OBIA for Verizon enterprise customer sales system: performed system architecture including scaling, storage, system resources, security, high availability & clustering, and configuration management tasks
-Earned 5 CIO recognitions in the last 2 years in a company of over 16,000 IT employees:
+**Verizon, Alpharetta, GA 2013 – 2015** <br>
+**Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
+_Verizon, Tampa, FL 2000-2012_ <br>
+_Previous Titles: "Senior Systems Architect & Senior Systems Administrator (MTS-III)", "Senior Systems Administrator (MTS-II)"", "Systems Administrator (MTS-I)"_
+* Led large-scale Digital Transformation effort, moving more than 120+ Java services from CI only, to Continuous Deployment design patterns, resulting in deployments going from every 2 months during late night change windows, to multiple times a day during prime business hours
+* Reorganized Planning, Development, Testing and Ops silos into smaller cross-functional "Verizon Pods" inspired by "Amazon 2 Pizza Teams" and "Spotify Squads", resulting in right sizing teams to initiatives, increased crossing and embedding, reducing blame, which improved collaboration and affinity, which in turn increased development velocity
+* Developed Jenkins continuous integration (CI), continuous delivery and continuous deployment (CD) automations, integrating business processes, SDLC governance, disaster recovery, test automation, enterprise monitoring, and configuration management for WAN scope applications used by Verizon SalesForce SFDC Team, servicing Enterprise Customers
+* Implemented Blue | Green methodology using geographically distributed cluster switching, at Netscaler GSLB load balancer level, resulting in zero downtime deployments
+* Led first team at Verizon effort to automate Change Management compliance via API calls in CD Jenkins automations
+* Virtualized Web services and API interface tests with CA-LISA / CA-DevTest to decouple external team integration partner dependencies in lower lifecycle environments, eliminating issues where partner teams might cause delays in development velocity
+* Implemented automated continuous testing in all lifecycles, to meet continuous delivery goals
+* Leveraged Sonatype Nexus as repository for build artifacts to ensure code reproducibility
+* Configured System instrumentation testing, via Jenkins API calls to CA-APM, to perform deployment readiness checks, that gated automated deployments off health checks, to avoid deploying to an overburdened or unavailable host
+* Automated System under test (SuT) performance stress test loads, with HP LoadRunner API calls from Jenkins
+* Team of 5 awarded 1st place in annual "Verizon DevOps Challenge", judged by internal DevOps Council, and external cloud industry judges from Microsoft, IBM, Mirantis, and Pivotal
+* Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon by virtualizing 120+ services in a single day
+* Compared Pivotal Cloud Foundry and RedHat Openshift PaaS offerings in POC, implemented PCF, implemented Openstack Cloud in on-prem data centers, performing 'cf push' deploys to on-prem Openstack VMs, and public cloud Amazon Web Services AWS EC2 in Q4 2015
+* Designed and implemented BI data warehouse on Oracle OBIA for Verizon enterprise customer facing sales portal, performing system architecture including scaling, storage, system resources, security, high availability (HA) clustering, and configuration management tasks
+* Earned 5 CIO recognitions in the last 2 years in a company of over 16,000 IT employees resulting in out of cycle spot bonuses
+* Performed regulatory compliance officer role for multiple large application portfolios - security scan audits, remediation, PCI/SOX, and GSAM compliance certification
 * Migrated a legacy revenue application & decommissioned legacy systems to remediate security vulnerabilities
-* Remediated 53 critical security vulnerabilities in 30 days, clearing a PCI/SOX-compliant application
-* Drove a core revenue application to Blue | Green globally dispersed cluster switching functionality
-* Team of 5 awarded 1st place in Verizon DevOps Challenge judged by internal DevOps Council and external cloud industry judges from Microsoft, IBM, Mirantis, and Pivotal
-* Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon
+* Remediated 53 critical security vulnerabilities in 30 days, clearing a poorly maintained, inherited, PCI/SOX-compliant application suite
 
 **Company: Verizon, Tampa, FL** <br>
 **Dates: 2000 – 2013** <br>
 **Titles: Systems Architect & Senior Systems Administrator (MTS-III), Senior Systems Administrator (MTS-II), Systems Administrator (MTS-I)** <br>
 * As a member of a unix/linux root SysAdmin core infrastructure and middleware team, managed all HPUX, Solaris, AIX, IRIX and Linux servers within a major IT division. During this time, also managed architecture and operations needs for data warehousing AppDev teams performing all data center management, vendor management, HA clustering, SAN, TCP/IP networking operations roles within the organization.
-
 * Received VP "Run Toward the Fire" recognition at Executive Town Hall for datacenter migration crisis management
-* Migrated physical servers between datacenter locations
+* Migrated physical bare metal servers between datacenter locations
 * Migrated datacenter functionality from a satellite to a core operations datacenter and from core operations to an acquisition entity’s datacenter
 * Created architecture for data warehousing solution & implemented servers across intranet and internet datacenters spanning multiple firewalls, and DMZ points across WAN footprint
 * Designed systems, storage, and network architecture for multiple Informatica, Oracle RAC, Business Objects, Microstrategy or OBIEE/OBIA data warehouse solutions on HPUX, Linux, and Solaris
@@ -117,13 +133,13 @@ _Title: Technical Representative (contractor for IBM) on SOWs for Merrill Lynch,
 
 <tr>
 <td>RedHat Openshift</td>
-<td>Chef Foundations</td>
+<td>Opscode Chef Foundations</td>
 <td>Mirantis Openstack</td>
 </tr>
 
 <tr>
-<td>RedHat Openshift</td>
 <td>Pivotal Cloud Foundry</td>
+<td>Mirantis Agile</td>
 <td>Lean Six Sigma</td>
 </tr>
 

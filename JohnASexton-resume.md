@@ -1,9 +1,26 @@
 # Resume - March 2020
 <table>
-<tr><td>Name:</td> <td>John A. Sexton</td></tr>
-<tr><td>Title:</td> <td>Staff Software Engineer</td></tr>
-<tr><td>Focus areas:</td> <td>Platform SRE | DevOps Architecture | Cloud Architecture | CICD | DevOps Thought Leadership | Public Speaker</td></tr>
-<tr><td>Profile:</td><td><a href="https://www.linkedin.com/in/john-sexton-8b943a18/">LinkedIn</a></td></tr>
+
+<tr>
+<td>Name:</td>
+<td>John A. Sexton</td>
+</tr>
+
+<tr>
+<td>Title:</td>
+<td>Staff Software Engineer</td>
+</tr>
+
+<tr>
+<td>Focus areas:</td>
+<td>Platform SRE | DevOps Architecture | Cloud Architecture | CICD | Digital Transformation | Public Speaking </td>
+</tr>
+
+<tr>
+<td>Profile:</td>
+<td><a href="https://www.linkedin.com/in/john-sexton-8b943a18/">LinkedIn</a></td>
+</tr>
+
 </table>
 
 ### SUMMARY
@@ -11,29 +28,28 @@
 
 ### CORE COMPETENCIES
 * **Cloud Platforms:** Google Cloud Platform (GCP) <br>
-* **GCP Tooling:** GKE, GCE, GCS, PubSub, Spanner, Datastore, Dataflow, GCLB, CloudArmor, IaP, gcloudSDK <br>
+* **GCP Tooling:** GKE, GCE, GCS, PubSub, Spanner, Datastore, Dataflow, GCLB, CloudArmor, IaP, IAM, VPC, gcloudSDK <br>
 * **Containerization:** Kubernetes, AppEngine, Docker, Dockerhub, gcr.io <br>
-* **Observability:** Prometheus, Grafana, Stackdriver, Jaeger <br>
+* **Observability:** Prometheus, Grafana, Stackdriver <br>
 * **Ingress:** Nginx <br>
 * **CI/CD:** Spinnaker, Helm, Jenkins-X, Jenkins <br>
 * **Infrastructure as Code (IaC):** Terraform <br>
 * **Configuration Management:** Docker, Chef <br>
-* **Source Control Management SCM:** git-scm.com, GitLab Enterprise, GitHub, Subversion (SVN) <br>
+* **Source Control Management SCM:** git-scm.com, GitLab Enterprise, GitLab, GitHub, Subversion (SVN) <br>
 * **Languages:** Groovy, Bash, Python, SQL, REST, Ruby, Java <br>
 * **Markup/Markdown:** yaml, json, markdown, html, xml <br>
-* **OS:** Linux (Alpine, CoreOS, Ubuntu, CentOS, RHEL) <br>
+* **OS:** Linux (Alpine, CoreOS, Ubuntu, CentOS, RedHat Enterprise Linux RHEL) <br>
 * **Planning:** Jira <br>
 
 ### PROFESSIONAL EXPERIENCE <br>
 **Macy's Technology, Duluth GA 2016-present** <br>
-**Title: Staff Software Engineer** <br>
-_Previous Titles: Staff DevOps Engineer, Lead DevOps Engineer, D2C DevOps Architecture & Systems Specialis, Development, D2C DevOps Architecture_
+**Staff Software Engineer** <br>
+_Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Architecture" and "Systems Specialist, Development, D2C DevOps Architecture"_
 * Drive Continuous Integration, Continuous Delivery and Continuous Deployment automation practices throughout Macys Systems & Technology as a thought leader
 * Define overarching DevOps Architecture
 * evaluate current level of DevOps Maturity against an objective DevOps Maturity Model
-* develop long term adoption road maps, for direct to consumer, core revenue, ordering, line of business.
-
-* Perform DevOps Engineering automation and integration tasks, as well as
+* develop long term adoption road maps, for direct to consumer, core revenue, ordering, line of business
+* Perform DevOps Engineering automation and integration tasks
 * implement and iteratively improve Configuration Management practice to realize previously mentioned architecture,
 * design and road map targets.
 * Manage key infrastructure components, including but not limited to: Chef, Cloudbees Jenkins Operations Center, RHEL Linux, JBoss, Maven, Artifactory, IBM Urban Code Deploy, BitBucket, GitLab, SVN, CA-Endevor, FishEye, Crucible, Sonarqube, Serenity, HP-ALM, Plutora, Dynatrace, Elasticsearch, Logstash, Kibana and Nagios.
@@ -59,27 +75,30 @@ Esablished innersourcing model via the MOCHA Council, HR Talent Acquisition & L&
 * improved automation, transitioning OA tasks to delivery teams to enable self service & remove bottlenecks, improving environment provisioning practices to eliminate prod and nonprod parity issues.
 Function as GitMaster for OC/OM & RedFrog Team.
 * Manage all source code activities with the DevOps team. Established new Team practice of using the  “gitflow” branching and merging design pattern. Perform all FEATURE and RELEASE branch creation while performing and presiding over merges and merge conflict resolution task assignment in GitLab.
+* Integrated Atlassian FishEye, GitLab Enterprise and Atlassian Jira, while enforcing Jira Story was present in every commit and branch, resulting in every branch or commit reporting back to Jira story to resulting in traceability of assigned work to actual development effort observability across all roles
 
-**Verizon, Alpharetta, GA 2013 – 2016** <br>
-**Title: Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
-_Verizon, Tampa, FL 2000-2013_ <br>
-_Titles: Senior Systems Administrator (MTS-III), Senior Systems Administrator (MTS-II), Systems Administrator (MTS-I)_
-* Areas of responsibility included automation of the Jenkins continuous delivery pipeline, designing business processes, SDLC governance, disaster recovery planning, test automation, enterprise monitoring, and configuration management for WAN scope applications * Performed regulatory compliance officer role for large application portfolios - security scan audits, remediation, and SOX, PCI, GSAM compliance certification.
-* Accomplishments include:
-* Migrated SDLC team from continuous integration architecture to continuous delivery pipeline
-* Implemented Blue | Green methodology using geographically distributed cluster switching at GSLB Netscaler hardware load balancer level enabling fast cut production code switching
-* Implemented automated testing to meet continuous delivery goals: automated Jenkins continuous integration pipeline by developing custom shell scripts containing cURL calls to REST API’s to include:
-J2EE code base unit tests with J-unit
-* Web services and SOA interface tests with CA-LISA / CA-DevTest
-* Configured System instrumentation testing with CA-APM
-* Automated System under test loads with HP LoadRunner
-* Designed and implemented BI data warehouse on Oracle OBIA for Verizon enterprise customer sales system: performed system architecture including scaling, storage, system resources, security, high availability & clustering, and configuration management tasks
-Earned 5 CIO recognitions in the last 2 years in a company of over 16,000 IT employees:
+**Verizon, Alpharetta, GA 2013 – 2015** <br>
+**Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
+_Verizon, Tampa, FL 2000-2012_ <br>
+_Previous Titles: "Senior Systems Architect & Senior Systems Administrator (MTS-III)", "Senior Systems Administrator (MTS-II)"", "Systems Administrator (MTS-I)"_
+* Led large-scale Digital Transformation effort, moving more than 120+ Java services from CI only, to Continuous Deployment design patterns, resulting in deployments going from every 2 months during late night change windows, to multiple times a day during prime business hours
+* Reorganized Planning, Development, Testing and Ops silos into smaller cross-functional "Verizon Pods" inspired by "Amazon 2 Pizza Teams" and "Spotify Squads", resulting in right sizing teams to initiatives, increased crossing and embedding, reducing blame, which improved collaboration and affinity, which in turn increased development velocity
+* Developed Jenkins continuous integration (CI), continuous delivery and continuous deployment (CD) automations, integrating business processes, SDLC governance, disaster recovery, test automation, enterprise monitoring, and configuration management for WAN scope applications used by Verizon SalesForce SFDC Team, servicing Enterprise Customers
+* Implemented Blue | Green methodology using geographically distributed cluster switching, at Netscaler GSLB load balancer level, resulting in zero downtime deployments
+* Led first team at Verizon effort to automate Change Management compliance via API calls in CD Jenkins automations
+* Virtualized Web services and API interface tests with CA-LISA / CA-DevTest to decouple external team integration partner dependencies in lower lifecycle environments, eliminating issues where partner teams might cause delays in development velocity
+* Implemented automated continuous testing in all lifecycles, to meet continuous delivery goals
+* Leveraged Sonatype Nexus as repository for build artifacts to ensure code reproducibility
+* Configured System instrumentation testing, via Jenkins API calls to CA-APM, to perform deployment readiness checks, that gated automated deployments off health checks, to avoid deploying to an overburdened or unavailable host
+* Automated System under test (SuT) performance stress test loads, with HP LoadRunner API calls from Jenkins
+* Team of 5 awarded 1st place in annual "Verizon DevOps Challenge", judged by internal DevOps Council, and external cloud industry judges from Microsoft, IBM, Mirantis, and Pivotal
+* Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon by virtualizing 120+ services in a single day
+* Compared Pivotal Cloud Foundry and RedHat Openshift PaaS offerings in POC, implemented PCF, implemented Openstack Cloud in on-prem data centers, performing 'cf push' deploys to on-prem Openstack VMs, and public cloud Amazon Web Services AWS EC2 in Q4 2015
+* Designed and implemented BI data warehouse on Oracle OBIA for Verizon enterprise customer facing sales portal, performing system architecture including scaling, storage, system resources, security, high availability (HA) clustering, and configuration management tasks
+* Earned 5 CIO recognitions in the last 2 years in a company of over 16,000 IT employees resulting in out of cycle spot bonuses
+* Performed regulatory compliance officer role for multiple large application portfolios - security scan audits, remediation, PCI/SOX, and GSAM compliance certification
 * Migrated a legacy revenue application & decommissioned legacy systems to remediate security vulnerabilities
-* Remediated 53 critical security vulnerabilities in 30 days, clearing a PCI/SOX-compliant application
-* Drove a core revenue application to Blue | Green globally dispersed cluster switching functionality
-* Team of 5 awarded 1st place in Verizon DevOps Challenge judged by internal DevOps Council and external cloud industry judges from Microsoft, IBM, Mirantis, and Pivotal
-* Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon by virtualizing 120 services in a single day
+* Remediated 53 critical security vulnerabilities in 30 days, clearing a poorly maintained, inherited, PCI/SOX-compliant application suite
 
 ### PROFESSIONAL DEVELOPMENT TRAINING
 <table>
@@ -92,13 +111,13 @@ Earned 5 CIO recognitions in the last 2 years in a company of over 16,000 IT emp
 
 <tr>
 <td>RedHat Openshift</td>
-<td>Chef Foundations</td>
+<td>Opscode Chef Foundations</td>
 <td>Mirantis Openstack</td>
 </tr>
 
 <tr>
-<td>RedHat Openshift</td>
 <td>Pivotal Cloud Foundry</td>
+<td>Mirantis Agile</td>
 <td>Lean Six Sigma</td>
 </tr>
 
