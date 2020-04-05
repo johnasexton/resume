@@ -29,7 +29,7 @@
 </table>
 
 ### SUMMARY
-> Staff Software Engineer specializing in Platform Site Reliability Engineering (SRE) and DevOps; Responsible for DevOps automation, configuration management, Infrastructure as Code (IaC), source control management (SCM), audit, compliance, test automation, and security compliance in a large enterprise, mission critical and core revenue environment; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry whitepapers like the annual DORA State of DevOps Report
+> Staff Software Engineer specializing in Digital Transformation, Site Reliability Engineering (SRE) and DevOps Architectures; Establishing configuration management, Infrastructure as Code (IaC), source control management (SCM), branching and merging design patterns, metrics collection, observability, audit, compliance, test automation, and security compliance practices, in large enterprise, mission critical and core revenue environments; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry white-papers like the annual DORA State of DevOps Report
 
 ### PROFESSIONAL EXPERIENCE <br><br>
 **Macy's Technology, Duluth GA 2016-present** <br>
@@ -171,13 +171,13 @@ Mirantis Openstack, Pivotal Cloud Foundry, RHEL, HPUX, Solaris, Windows Server, 
 <tr>
 <td>Google Cloud Next '18</td>
 <td>DevOps Days 2019</td>
-<td>Jenkins-X</td>
+<td>Jenkins-X 2019</td>
 </tr>
 
 <tr>
-<td>Jenkins World</td>
-<td>Nginx</td>
-<td>Forty8Fifty</td>
+<td>Cloudbees Days 2017</td>
+<td>Nginx Conf 2018</td>
+<td>DevOps Tech Summit 2018</td>
 </tr>
 
 </table>

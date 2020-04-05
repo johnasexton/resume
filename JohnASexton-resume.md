@@ -29,7 +29,7 @@
 </table>
 
 ### SUMMARY
-> Staff Software Engineer specializing in Platform Site Reliability Engineering (SRE) and DevOps; Responsible for DevOps automation, configuration management, Infrastructure as Code (IaC), source control management (SCM), audit, compliance, test automation, and security compliance in large enterprise, mission critical and core revenue environments; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry white papers like the annual DORA State of DevOps Report
+> Staff Software Engineer specializing in Digital Transformation, Site Reliability Engineering (SRE) and DevOps Architectures; Establishing configuration management, Infrastructure as Code (IaC), source control management (SCM), branching and merging design patterns, metrics collection, observability, audit, compliance, test automation, and security compliance practices, in large enterprise, mission critical and core revenue environments; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry white-papers like the annual DORA State of DevOps Report
 
 ### PROFESSIONAL EXPERIENCE <br>
 **Macys Technology, Duluth GA 2016-present** <br>
@@ -96,7 +96,7 @@ _Previous Titles: "Senior Systems Architect & Senior Systems Administrator (MTS-
 * **Source Control Management SCM:** git-scm.com, GitLab Enterprise, GitLab, GitHub, Subversion (SVN) <br>
 * **Languages:** Groovy, Bash, Python, SQL, REST, Ruby, Java <br>
 * **Markup/Markdown:** yaml, json, markdown, html, xml <br>
-* **OS:** Linux (Alpine, CoreOS, Ubuntu, CentOS, RedHat Enterprise Linux RHEL) <br>
+* **OS:** Linux (Alpine, CoreOS, CentOS, Ubuntu, RedHat Enterprise Linux RHEL) <br>
 * **Planning:** Jira <br>
 
 ### PROFESSIONAL DEVELOPMENT TRAINING
@@ -132,8 +132,8 @@ _Previous Titles: "Senior Systems Architect & Senior Systems Administrator (MTS-
 </tr>
 
 <tr>
-<td>Jenkins Summit 2017</td>
-<td>Nginx 2018</td>
+<td>Cloudbees Days 2017</td>
+<td>Nginx Conf 2018</td>
 <td>DevOps Tech Summit 2018</td>
 </tr>
 
