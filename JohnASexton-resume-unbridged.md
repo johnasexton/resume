@@ -71,7 +71,7 @@ Function as GitMaster for OC/OM & RedFrog Team.
 **Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
 _Verizon, Tampa, FL 2000-2012_ <br>
 _Previous Titles: "Senior Systems Architect & Senior Systems Administrator (MTS-III)", "Senior Systems Administrator (MTS-II)"", "Systems Administrator (MTS-I)"_
-* Led large-scale Digital Transformation effort, moving more than 120+ Java services from CI only, to Continuous Deployment design patterns, resulting in deployments going from every 2 months during late night change windows, to multiple times a day during prime business hours
+* Led large-scale Digital Transformation effort, migrating 120+ Java services from CI only, to Continuous Deployment design patterns, accelerating deployment cadence from every 2 months during late night change windows, to multiple times a day during prime business hours
 * Reorganized Planning, Development, Testing and Ops silos into smaller cross-functional "Verizon Pods" inspired by "Amazon 2 Pizza Teams" and "Spotify Squads", resulting in right sizing teams to initiatives, increased crossing and embedding, reducing blame, which improved collaboration and affinity, which in turn increased development velocity
 * Developed Jenkins continuous integration (CI), continuous delivery and continuous deployment (CD) automations, integrating business processes, SDLC governance, disaster recovery, test automation, enterprise monitoring, and configuration management for WAN scope applications used by Verizon SalesForce SFDC Team, servicing Enterprise Customers
 * Implemented Blue | Green methodology using geographically distributed cluster switching, at Netscaler GSLB load balancer level, resulting in zero downtime deployments
@@ -81,20 +81,13 @@ _Previous Titles: "Senior Systems Architect & Senior Systems Administrator (MTS-
 * Leveraged Sonatype Nexus as repository for build artifacts to ensure code reproducibility
 * Configured System instrumentation testing, via Jenkins API calls to CA-APM, to perform deployment readiness checks, that gated automated deployments off health checks, to avoid deploying to an overburdened or unavailable host
 * Automated System under test (SuT) performance stress test loads, with HP LoadRunner API calls from Jenkins
-* Team of 5 awarded 1st place in annual "Verizon DevOps Challenge", judged by internal DevOps Council, and external cloud industry judges from Microsoft, IBM, Mirantis, and Pivotal
-* Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon by virtualizing 120+ services in a single day
 * Compared Pivotal Cloud Foundry and RedHat Openshift PaaS offerings in POC, implemented PCF, implemented Openstack Cloud in on-prem data centers, performing 'cf push' deploys to on-prem Openstack VMs, and public cloud Amazon Web Services AWS EC2 in Q4 2015
 * Designed and implemented BI data warehouse on Oracle OBIA for Verizon enterprise customer facing sales portal, performing system architecture including scaling, storage, system resources, security, high availability (HA) clustering, and configuration management tasks
-* Earned 5 CIO recognitions in the last 2 years in a company of over 16,000 IT employees resulting in out of cycle spot bonuses
-* Performed regulatory compliance officer role for multiple large application portfolios - security scan audits, remediation, PCI/SOX, and GSAM compliance certification
-* Migrated a legacy revenue application & decommissioned legacy systems to remediate security vulnerabilities
-* Remediated 53 critical security vulnerabilities in 30 days, clearing a poorly maintained, inherited, PCI/SOX-compliant application suite
 
 **Company: Verizon, Tampa, FL** <br>
 **Dates: 2000 – 2013** <br>
 **Titles: Systems Architect & Senior Systems Administrator (MTS-III), Senior Systems Administrator (MTS-II), Systems Administrator (MTS-I)** <br>
 * As a member of a unix/linux root SysAdmin core infrastructure and middleware team, managed all HPUX, Solaris, AIX, IRIX and Linux servers within a major IT division. During this time, also managed architecture and operations needs for data warehousing AppDev teams performing all data center management, vendor management, HA clustering, SAN, TCP/IP networking operations roles within the organization.
-* Received VP "Run Toward the Fire" recognition at Executive Town Hall for datacenter migration crisis management
 * Migrated physical bare metal servers between datacenter locations
 * Migrated datacenter functionality from a satellite to a core operations datacenter and from core operations to an acquisition entity’s datacenter
 * Created architecture for data warehousing solution & implemented servers across intranet and internet datacenters spanning multiple firewalls, and DMZ points across WAN footprint
@@ -111,36 +104,38 @@ _Title: Systems Administrator (contractor for GTE)_ <br>
 _Title: Technical Representative (contractor for IBM) on SOWs for Merrill Lynch, Ernst & Young, PwC & GM_ <br>
 
 ### CORE COMPETENCIES
-* **Cloud Platforms:** Google Cloud Platform (GCP) <br>
+* **Cloud Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS), Mirantis Openstack Cloud <br>
 * **GCP Tooling:** GKE, GCE, GCS, PubSub, Spanner, Datastore, Dataflow, GCLB, CloudArmor, IaP, IAM, VPC, gcloudSDK <br>
 * **Containerization:** Kubernetes, AppEngine, Docker, Dockerhub, gcr.io <br>
 * **Observability:** Prometheus, Grafana, Stackdriver <br>
 * **Ingress:** Nginx <br>
-* **CI/CD:** Spinnaker, Helm, Jenkins-X, Jenkins, Maven, Artifactory, Sonarqube, Checkmarx <br>
+* **CI/CD:** Spinnaker, Helm, Jenkins-X, Jenkins, Hudson, Maven, Artifactory, Sonarqube, Checkmarx <br>
 * **Infrastructure as Code (IaC):** Terraform <br>
-* **Configuration Management:** Docker, Chef <br>
+* **Configuration Management:** Docker, Chef, Ansible <br>
 * **Source Control Management SCM:** git-scm.com, GitLab Enterprise, GitLab, GitHub, Subversion (SVN) <br>
 * **Languages:** Groovy, Bash, Python, SQL, REST, Ruby, Java <br>
 * **Markup/Markdown:** yaml, json, markdown, html, xml <br>
-* **OS:** Linux (Alpine, CoreOS, Ubuntu, CentOS, RedHat Enterprise Linux RHEL) <br>
-* **Planning:** Jira <br>
-
-### CORE COMPETENCIES
-* **Cloud Platforms:** Google Cloud (GCP), Amazon Web Services (AWS), Mirantis Openstack Cloud, IBM SoftLayer, Microsoft Azure, VmWare vSphere, Oracle Exadata Cloud, Heroku <br>
-* **GCP Tooling:** GKE, GCE, GCS, PubSub, Spanner, Datastore, Dataflow, GCLB, CloudArmor, gcloudSDK <br>
-* **Containerization/Serverless:** Kubernetes, AppEngine, CloudRun, Anthos, KNative, Docker, Rocket, Helm, Tiller <br>
-* **CI/CD:** Spinnaker, Helm, Jenkins-X, Jenkins, Cloudbees Enterprise Jenkins, Hudson <br>
-* **Configuration Management:** Docker, Chef, Ansible <br>
-* **Source Control Management SCM:** Git, GitLab Enterprise, GitHub, Subversion (SVN) <br>
-* **Languages:** Groovy, Bash, Python, Ruby, SQL, REST, Java <br>
-* **Tooling:** Nginx, Prometheus, Grafana, Stackdriver <br>
+* **Messaging:** GCP PubSub, Kafka, Tibco-EMS, WebSphere-MQ
+* **Service Virtualization:** CA-LISA/CA-DevTest
+* **Data/BI:** Oracle RAC, OBIA, Informatica, MS-SQL Server
+* **Middleware:** Tomcat, JBoss, Apache, WebLogic, WebSphere, IIS
 * **OS:** Linux (Alpine, CoreOS, Ubuntu, RHEL, Debian), HPUX, Solaris <br>
 * **PaaS:** RedHat Openshift, Pivotal Cloud Foundry <br>
-Jenkins, GIT, Jira	• Oracle RAC, OBIA, Informatica	• CA-APM, CA-LISA
-WebLogic, SOA, Apache	• IIS, MS-SQL, TFS, WebSphere-MQ	• VmWare ESXi <br>
-* **Former Tooling:**
-Mirantis Openstack, Pivotal Cloud Foundry, RHEL, HPUX, Solaris, Windows Server, Oracle RAC, OBIA, Informatica, CA-APM, CA-LISA, WebLogic, SOA, Apache, IIS, MS-SQL, TFS, WebSphere-MQ, VmWare ESXi <br>
 * **Planning:** Jira <br>
+
+### PROFESSIONAL AWARDS
+##### Macys
+* Earned Macys Make Magic Award for DevOps Thought Leadership in 2016 resulting in out of cycle bonus
+* Earned Macys Make Magic Award for CA-Endevor to Compuware ISPW source control management code migration for Mainframe 2018 resulting in out of cycle bonus
+
+##### Verizon
+* Earned 6 CIO/VP recognitions at Verizon in the last 3 years in a company of over 16,000 IT employees resulting in out of cycle spot bonuses
+* Team of 5 awarded 1st place in annual "Verizon DevOps Challenge", judged by internal DevOps Council, and external cloud industry judges from Microsoft, IBM, Mirantis, and Pivotal
+* Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon by virtualizing 120+ services in a single day
+* Performed regulatory compliance officer role for multiple large application portfolios - security scan audits, remediation, PCI/SOX, and GSAM compliance certification
+* Migrated a legacy revenue application & decommissioned legacy systems to remediate security vulnerabilities
+* Remediated 53 critical security vulnerabilities in 30 days, clearing a poorly maintained, inherited, PCI/SOX-compliant application suite
+* Received VP "Run Toward the Fire" recognition at Executive Town Hall for datacenter migration crisis management
 
 ### PROFESSIONAL DEVELOPMENT
 <table>

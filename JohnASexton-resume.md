@@ -75,14 +75,8 @@ _Previous Titles: "Senior Systems Architect & Senior Systems Administrator (MTS-
 * Leveraged Sonatype Nexus as repository for build artifacts to ensure code reproducibility
 * Configured System instrumentation testing, via Jenkins API calls to CA-APM, to perform deployment readiness checks, that gated automated deployments off health checks, to avoid deploying to an overburdened or unavailable host
 * Automated System under test (SuT) performance stress test loads, with HP LoadRunner API calls from Jenkins
-* Team of 5 awarded 1st place in annual "Verizon DevOps Challenge", judged by internal DevOps Council, and external cloud industry judges from Microsoft, IBM, Mirantis, and Pivotal
-* Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon by virtualizing 120+ services in a single day
 * Compared Pivotal Cloud Foundry and RedHat Openshift PaaS offerings in POC, implemented PCF, implemented Openstack Cloud in on-prem data centers, performing 'cf push' deploys to on-prem Openstack VMs, and public cloud Amazon Web Services AWS EC2 in Q4 2015
 * Designed and implemented BI data warehouse on Oracle OBIA for Verizon enterprise customer facing sales portal, performing system architecture including scaling, storage, system resources, security, high availability (HA) clustering, and configuration management tasks
-* Earned 5 CIO recognitions in the last 2 years in a company of over 16,000 IT employees resulting in out of cycle spot bonuses
-* Performed regulatory compliance officer role for multiple large application portfolios - security scan audits, remediation, PCI/SOX, and GSAM compliance certification
-* Migrated a legacy revenue application & decommissioned legacy systems to remediate security vulnerabilities
-* Remediated 53 critical security vulnerabilities in 30 days, clearing a poorly maintained, inherited, PCI/SOX-compliant application suite
 
 ### CORE COMPETENCIES
 * **Cloud Platforms:** Google Cloud Platform (GCP) <br>
@@ -98,6 +92,19 @@ _Previous Titles: "Senior Systems Architect & Senior Systems Administrator (MTS-
 * **Markup/Markdown:** yaml, json, markdown, html, xml <br>
 * **OS:** Linux (Alpine, CoreOS, CentOS, Ubuntu, RedHat Enterprise Linux RHEL) <br>
 * **Planning:** Jira <br>
+
+### PROFESSIONAL AWARDS
+##### Macys
+* Earned Macys Make Magic Award for DevOps Thought Leadership in 2016 resulting in out of cycle bonus
+* Earned Macys Make Magic Award for CA-Endevor to Compuware ISPW source control management code migration for Mainframe 2018 resulting in out of cycle bonus
+
+##### Verizon 
+* Earned 5 CIO recognitions at Verizon in the last 2 years in a company of over 16,000 IT employees resulting in out of cycle spot bonuses
+* Team of 5 awarded 1st place in annual "Verizon DevOps Challenge", judged by internal DevOps Council, and external cloud industry judges from Microsoft, IBM, Mirantis, and Pivotal
+* Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon by virtualizing 120+ services in a single day
+* Performed regulatory compliance officer role for multiple large application portfolios - security scan audits, remediation, PCI/SOX, and GSAM compliance certification
+* Migrated a legacy revenue application & decommissioned legacy systems to remediate security vulnerabilities
+* Remediated 53 critical security vulnerabilities in 30 days, clearing a poorly maintained, inherited, PCI/SOX-compliant application suite
 
 ### PROFESSIONAL DEVELOPMENT TRAINING
 <table>
