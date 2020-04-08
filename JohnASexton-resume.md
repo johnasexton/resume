@@ -42,20 +42,19 @@ _Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Arc
   * From very basic CI to advanced CI, with compliance gates & modern declarative CD via Spinnaker & Helm
   * From 1000+ handcrafted VMs to 100% defined as Ruby code in Chef Cookbooks
   * From 100% on-prem DataCenter to all lower lifecycle environments in GCE, to all greenfield projects in GKE via Docker / Kubernetes
-* Converted all freestyle Jenkins jobs to declarative groovy DSL pipeline as code
+* Converted all freestyle Jenkins jobs to declarative groovy DSL pipeline as code, reducing manual touch & enabling self-provisioning
 * Migrated team from Test Driven Development TDD to Behavior Driven Development BDD paradigm
 * Engineered platforms from fixed property files to dynamic feature toggle practices
-* Provided multiple key:value stores for both Legacy and Cloud Native applications that developers could manage themselves via self-service using Zookeeper & Kubernetes-configmaps
+* Provided multiple key:value stores for both Legacy and Cloud Native applications using Zookeeper & Kubernetes-configmaps
 * Integrated Atlassian FishEye and Jira with GitLab Enterprise to establish full traceability and visibility from story to feature branch to commit
 * implemented and iteratively improved Configuration Management practice using Opscode Chef and Django API translation layer to achieve multi-cloud provisioning while writing against a single internal API framework at VM level
 * DevOps Thought Leadership efforts:
-  * Collaborated with Agile Coach to reorganize monolithic development team into cross-functional "Macys Delivery Teams"
-  * Co-chaired DevOps Core Council, which planned activities for the DevOps Council community of practice within Macys to collect, socialize and spread DevOps best-practices throughout footprint
+  * Continuously evaluated/re-evaluated current level of DevOps Maturity against an objective DevOps Maturity Model
+  * Developed long term Platform Engineering road maps and quantified results via Value Stream Mapping & Platform metrics
+  * Collaborated with Agile Coach to reorganize single function team silos into cross-functional "Macys Delivery Teams"
+  * Co-chaired DevOps Core Council, planning activities for the DevOps community of practice to socialize DevOps best-practices throughout Macys Technology
   * Co-created “Macys First DevOps Dojo” with DevOps Council
   * Established inner-sourcing Enterprise code sharing model using GitLab Enterprise on company intranet
-  * Continuously evaluated/re-evaluated current level of DevOps Maturity against an objective DevOps Maturity Model
-  * Developed long term adoption road maps, for direct to consumer, core revenue, ordering, line of business
-  * Quantified results via Value Stream Mapping & Platform metrics
   * Gave KeyNote talk at DevOpsATL Meetups hosted in the largest Macys Collaboration Space on Macys Technology campus
   * Delivered Enterprise Tech Talk from boardroom on the subject following our team's successful implementation as role model
   * Created Curated DevOps Content playlists on Skillport LMS portal in conjunction with Learning & Development organization
