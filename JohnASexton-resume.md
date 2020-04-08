@@ -91,12 +91,12 @@ _Previous Titles: "Senior Systems Architect & Senior Systems Administrator (MTS-
 
 ### PROFESSIONAL AWARDS
 ##### Macys
-* Earned two Macys "Make Magic Awards" which honor about 200 out of 4000 IT workers, resulting in out of cycle bonuses
+* Earned two Macys "Make Magic Awards" which honor about 200 out of 4000 IT employees
   * Macys Make Magic Award for DevOps Thought Leadership in 2016
   * Macys Make Magic Award for CA-Endevor to Compuware ISPW scm migration in 2018
 
 ##### Verizon
-* Earned 5 CIO recognitions at Verizon in the last 2 years in a company of over 16,000 IT employees, all of which resulted in out of cycle spot bonuses
+* Earned 5 CIO recognitions at Verizon in the last 2 years in a company of over 16,000 IT employees
   * Team of 5 awarded 1st place in annual "Verizon DevOps Challenge", judged by internal DevOps Council, and external cloud industry judges from Microsoft, IBM, Mirantis, and Pivotal
   * Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon by virtualizing 120+ services in a single day
   * Performed regulatory compliance officer role for multiple large application portfolios - security scan audits, remediation, PCI/SOX, and GSAM compliance certification
