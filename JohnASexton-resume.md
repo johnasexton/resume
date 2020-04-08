@@ -29,7 +29,7 @@
 </table>
 
 ### SUMMARY
-> Staff Software Engineer specializing in Digital Transformation, Site Reliability Engineering (SRE) and DevOps Architectures; Establishing: configuration management, Infrastructure as Code (IaC), source control management (SCM), branching and merging design patterns, observability, audit, test automation, and security compliance practices, all in large enterprise, mission critical and core revenue environments; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry white-papers such as the annual DORA State of DevOps Report; Driving improved: Time to Value (T2V), quality, efficiency and compliance, while reducing manual efforts required via API driven Enterprise design patterns
+> Staff Software Engineer specializing in Digital Transformation, Site Reliability Engineering (SRE) and DevOps Architectures; Establishing: configuration management, Infrastructure as Code (IaC), source control management (SCM), branching and merging design patterns, observability, audit, test automation, and security compliance practices, all in large enterprise, mission critical and core revenue environments; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum, Lean & Kata; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry white-papers such as the annual DORA State of DevOps Report; Driving improved: Time to Value (T2V), quality, efficiency and compliance, while reducing manual efforts required via API driven Enterprise design patterns
 
 ### PROFESSIONAL EXPERIENCE <br>
 **Macys Technology, Retail Order Management, Duluth GA 2016-present** <br>
@@ -42,9 +42,9 @@ _Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Arc
   * From very basic CI to advanced CI, with compliance gates & modern declarative CD via Spinnaker & Helm
   * From 1000+ handcrafted VMs to 100% defined as Ruby code in Chef Cookbooks
   * From no containers on-prem to a cloud native, container orchestration practice via Docker, Helm, Kubernetes & GKE
-  * from no observability to whitebox/blackbox monitoring via Stackdriver, Prometheus & Grafana
-  * from no IaC practice, to Terraform provisioned Kubernetes, Spanner, Datastore, PubSub, CloudTasks, Dataflow self-service
-  * from 100% human monitoring to automated alerting to fully automated Prometheus alert-manager & PagerDuty incident response
+  * From no observability to whitebox/blackbox monitoring via Stackdriver, Prometheus & Grafana
+  * From no IaC practice, to Terraform provisioned Kubernetes, Spanner, Datastore, PubSub, CloudTasks, Dataflow self-service
+  * From 100% human monitoring to automated Prometheus alert-manager alerts firing PagerDuty incident response incidents
   * From 100% on-prem DataCenter to all lower lifecycle environments in GCE, to all greenfield projects in GKE via Docker / Kubernetes
 * Led other key engineering initiatives:
   * Converted all freestyle Jenkins jobs to declarative groovy DSL pipeline as code, reducing manual touch & enabling self-provisioning
@@ -59,10 +59,10 @@ _Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Arc
   * Collaborated with Agile Coach to reorganize single function team silos into cross-functional "Macys Delivery Teams"
   * Established inner-sourcing Enterprise code sharing model using GitLab Enterprise on company intranet
   * Co-chaired DevOps Core Council, planning activities for the DevOps community of practice to socialize DevOps best-practices throughout Macys Technology
-  * Co-created “Macys First DevOps Dojo” with DevOps Council  
 * KeyNotes and Training:
   * DevOpsATL Nov 2016: _Building High Trust DevOps Cultures at Enterprise Scale_
   * Macys Boardroom Tech Talk Aug 2017: _Behavior Driven Development_
+  * Co-created “Macys First DevOps Dojo” with DevOps Council  
   * Created Curated DevOps Content playlists on Skillport LMS portal
 
 **Verizon, Enterprise Professional Services BI, Alpharetta, GA 2013 – 2015** <br>
