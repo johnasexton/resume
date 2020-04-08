@@ -29,25 +29,25 @@
 </table>
 
 ### SUMMARY
-> Staff Software Engineer specializing in Digital Transformation, Site Reliability Engineering (SRE) and DevOps Architectures; Establishing configuration management, Infrastructure as Code (IaC), source control management (SCM), branching and merging design patterns, metrics collection, observability, audit, compliance, test automation, and security compliance practices, in large enterprise, mission critical and core revenue environments; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry white-papers such as the annual DORA State of DevOps Report; Driving improved Time to Value (T2V), reduced Ideation to Production lead times, improved quality, improved efficiency, greater compliance, reducing manual efforts required via API driven Enterprise design patterns
+> Staff Software Engineer specializing in Digital Transformation, Site Reliability Engineering (SRE) and DevOps Architectures; Establishing: configuration management, Infrastructure as Code (IaC), source control management (SCM), branching and merging design patterns, observability, audit, test automation, and security compliance practices, all in large enterprise, mission critical and core revenue environments; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry white-papers such as the annual DORA State of DevOps Report; Driving improved: Time to Value (T2V), quality, efficiency and compliance, while reducing manual efforts required via API driven Enterprise design patterns
 
 ### PROFESSIONAL EXPERIENCE <br>
-**Macys Technology, Duluth GA 2016-present** <br>
+**Macys Technology, Retail Order Management, Duluth GA 2016-present** <br>
 **Staff Software Engineer** <br>
 _Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Architecture" and "Systems Specialist, Development, D2C DevOps Architecture"_
-* Led large-scale Digital Transformation effort, migrating 100+ Java services from CI only, to Continuous Deployment design patterns, accelerating deployment cadence from every 2 months during late night change windows, radically reducing deployment team size & time required to implement production changes, at Macys Technology in the Order Management, direct to consumer space, via the following advancements:
-  * from SVN to Git - Moved as part of a small team that brought GitLab Enterprise into Macys, helping many teams outside of my own migrate from SVN to Git in the process
-  * from branching anti-pattern, to modern trunk based development pattern of SCM backed by DORA SODOR analysis
-  * from SOA, SOAP, XML services including some "mini-monolith" services to true containerized, 12-factor REST API microservices
-  * from very basic CI, to advanced CI with compliance gates & modern declarative CD via Spinnaker & Helm
-  * from 1000+ handcrafted VMs to 100% defined as Ruby code in Chef Cookbooks
-  * from 100% on-prem DataCenter to all LLC environments in GCE, to all greenfield projects in GKE via Docker / Kubernetes
-  * Worked with Agile Coach & Leadership to reorganize large monolithic development team with 100+ members, toward Agile Team model, which ended up being called "Macys Delivery Teams"
-  * Converted all freestyle Jenkins jobs to declarative groovy DSL pipeline as code
-  * Migrated team from Test Driven Development TDD paradigm, to Behavior Driven Development BDD paradigm & gave Enterprise Tech Talk from boardroom on the subject following our team's successful implementation as role model
-  * Engineered platforms that moved from fixed property files, not even under source control, to dynamic feature toggle practices, providing multiple key:value stores for both Legacy and Cloud Native applications that developers could manage themselves via self-service using Zookeeper & Kubernetes-configmaps
-  * Integrated Atlassian FishEye, GitLab Enterprise and Atlassian Jira, while enforcing Jira Story was present in every commit and branch, resulting in every branch or commit reporting back to Jira story to resulting in traceability of assigned work to actual development effort observability across all roles
-  * implemented and iteratively improved Configuration Management practice using Opscode Chef and Django API translation layer to achieve multi-cloud provisioning while writing against a single internal API framework at VM level
+* Led large-scale Digital Transformation effort, migrating 100+ Java services from CI, to CICD, accelerating deployment cadence from every 2 months to daily, radically reducing deployment team effort required to implement production changes. Implemented following advancements:
+  * From SVN to Git - Co-led small team that rolled out GitLab Enterprise to entire Macys Technology footprint
+  * From branching anti-pattern to modern trunk based development pattern
+  * From legacy SOA, SOAP, XML services to true containerized, 12-factor REST API microservices
+  * From very basic CI to advanced CI, with compliance gates & modern declarative CD via Spinnaker & Helm
+  * From 1000+ handcrafted VMs to 100% defined as Ruby code in Chef Cookbooks
+  * From 100% on-prem DataCenter to all lower lifecycle environments in GCE, to all greenfield projects in GKE via Docker / Kubernetes
+* Worked with Agile Coach & Leadership to reorganize large monolithic development team with 100+ members, toward Agile Team model, which ended up being called "Macys Delivery Teams"
+* Converted all freestyle Jenkins jobs to declarative groovy DSL pipeline as code
+* Migrated team from Test Driven Development TDD paradigm, to Behavior Driven Development BDD paradigm & gave Enterprise Tech Talk from boardroom on the subject following our team's successful implementation as role model
+* Engineered platforms that moved from fixed property files, not even under source control, to dynamic feature toggle practices, providing multiple key:value stores for both Legacy and Cloud Native applications that developers could manage themselves via self-service using Zookeeper & Kubernetes-configmaps
+* Integrated Atlassian FishEye, GitLab Enterprise and Atlassian Jira, while enforcing Jira Story was present in every commit and branch, resulting in every branch or commit reporting back to Jira story to resulting in traceability of assigned work to actual development effort observability across all roles
+* implemented and iteratively improved Configuration Management practice using Opscode Chef and Django API translation layer to achieve multi-cloud provisioning while writing against a single internal API framework at VM level
 * Co-chaired DevOps Core Council, which planned activities for the DevOps Council community of practice within Macys to collect, socialize and spread DevOps best-practices throughout footprint
 * Co-created “Macys First DevOps Dojo” with DevOps Council
 * Established inner-sourcing Enterprise code sharing model using GitLab Enterprise on company intranet
@@ -57,7 +57,7 @@ _Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Arc
 * Gave KeyNote talk at DevOpsATL Meetups hosted in the largest Macys Collaboration Space on Macys Technology campus
 * Created Curated DevOps Content playlists on Skillport LMS portal in conjunction with Learning & Development organization
 
-**Verizon, Alpharetta, GA 2013 – 2015** <br>
+**Verizon, Enterprise Professional Services BI, Alpharetta, GA 2013 – 2015** <br>
 **Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
 _Verizon, Tampa, FL 2000-2012_ <br>
 _Previous Titles: "Senior Systems Architect & Senior Systems Administrator (MTS-III)", "Senior Systems Administrator (MTS-II)"", "Systems Administrator (MTS-I)"_
