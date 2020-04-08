@@ -29,16 +29,17 @@
 </table>
 
 ### SUMMARY
-> Staff Software Engineer specializing in Digital Transformation, Site Reliability Engineering (SRE) and DevOps Architectures; Establishing configuration management, Infrastructure as Code (IaC), source control management (SCM), branching and merging design patterns, metrics collection, observability, audit, compliance, test automation, and security compliance practices, in large enterprise, mission critical and core revenue environments; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry white-papers like the annual DORA State of DevOps Report
+> Staff Software Engineer specializing in Digital Transformation, Site Reliability Engineering (SRE) and DevOps Architectures; Establishing configuration management, Infrastructure as Code (IaC), source control management (SCM), branching and merging design patterns, metrics collection, observability, audit, compliance, test automation, and security compliance practices, in large enterprise, mission critical and core revenue environments; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry white-papers such as the annual DORA State of DevOps Report
 
 ### PROFESSIONAL EXPERIENCE <br>
 **Macys Technology, Duluth GA 2016-present** <br>
 **Staff Software Engineer** <br>
 _Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Architecture" and "Systems Specialist, Development, D2C DevOps Architecture"_
 * Led large-scale Digital Transformation effort, migrating 100+ Java services from CI only, to Continuous Deployment design patterns, accelerating deployment cadence from every 2 months during late night change windows, with a large team engaged for many hours, to any business day or hour with only 1 SRE, 1 DEV & 1 Tester as deployment team
+* Drove team from entirely on-prem Datacenter operations to partially, then fully embrace cloud native approaches 
 * Defined overarching DevOps Architecture of Continuous Integration, Continuous Delivery, and Continuous Deployment automation practices at Macys Technology in the Order Management, direct to consumer area
 * Worked with Agile thought leaders to reorganize large monolithic development team with 100+ members, toward Agile Team model, which ended up being named "Delivery Teams"
-* Co-chaired DevOps Core Council, which planned activities for the DevOps Council community of practice within Macys to drive DevOps best-practices throughout footprint
+* Co-chaired DevOps Core Council, which planned activities for the DevOps Council community of practice within Macys to collect, socialize and spread DevOps best-practices throughout footprint
 * Co-created “Macys First DevOps Dojo” with DevOps Council
 * Established inner-sourcing Enterprise code sharing model using GitLab Enterprise on company intranet
 * Engineered Continuous Testing model as part of achieving Continuous Delivery paradigm
@@ -49,12 +50,12 @@ _Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Arc
 * Converted all freestyle Jenkins jobs to declarative groovy DSL pipeline as code
 * Integrated Atlassian FishEye, GitLab Enterprise and Atlassian Jira, while enforcing Jira Story was present in every commit and branch, resulting in every branch or commit reporting back to Jira story to resulting in traceability of assigned work to actual development effort observability across all roles
 * implemented and iteratively improved Configuration Management practice using Opscode Chef and Django API translation layer to achieve multi-cloud provisioning while writing against a single internal API framework at VM level
-* Automate Enterprise APIs cross-organizationally using: Chef, Docker, Jenkins, vCloud, SoftLayer, JBoss, Maven, Artifactory, IBM Urban Code Deploy, GitLab Enterprise, GitLab Community, FishEye, Crucible, Sonarqube, Checkmarx, Serenity, HP-ALM, Plutora, Dynatrace, Elasticsearch, Logstash, Kibana and Nagios
-* Provide educational leadership via Boardroom Tech Talks, DevOpsATL Meetups hosted on Macys premises, lunch & learns, Skype conferences, video recordings, and information radiators like Jira, Confluence, git book wiki pages, and blog posts to socialize out the emerging practices to the organization at large, as well as present ideas up to senior leadership
-* Continuously evaluate/re-evaluate current level of DevOps Maturity against an objective DevOps Maturity Model
-* Develop long term adoption road maps, for direct to consumer, core revenue, ordering, line of business
-* Quantify results via Value Stream Mapping & Platform metrics
-* Create Curated DevOps Content playlists on Skillport LMS portal in conjunction with Learning & Development organization
+* Automated Enterprise APIs cross-organizationally using: Chef, Docker, Jenkins, vCloud, SoftLayer, JBoss, Maven, Artifactory, IBM Urban Code Deploy, GitLab Enterprise, GitLab Community, FishEye, Crucible, Sonarqube, Checkmarx, Serenity, HP-ALM, Plutora, Dynatrace, Elasticsearch, Logstash, Kibana and Nagios to achieve quality gating, compliance while eliminating manual processes and delays
+* Provided educational leadership via Boardroom Tech Talks, DevOpsATL Meetups hosted on Macys premises, lunch & learns, Skype conferences, video recordings, and information radiators like Jira, Confluence, git book wiki pages, and blog posts to socialize out the emerging practices to the organization at large, as well as present ideas up to senior leadership
+* Continuously evaluated/re-evaluated current level of DevOps Maturity against an objective DevOps Maturity Model
+* Developed long term adoption road maps, for direct to consumer, core revenue, ordering, line of business
+* Quantified results via Value Stream Mapping & Platform metrics
+* Created Curated DevOps Content playlists on Skillport LMS portal in conjunction with Learning & Development organization
 
 **Verizon, Alpharetta, GA 2013 – 2015** <br>
 **Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
