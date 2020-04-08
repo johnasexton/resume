@@ -36,7 +36,7 @@
 **Staff Software Engineer** <br>
 _Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Architecture" and "Systems Specialist, Development, D2C DevOps Architecture"_
 * Led large-scale Digital Transformation effort, migrating 100+ Java services from CI only, to Continuous Deployment design patterns, accelerating deployment cadence from every 2 months during late night change windows, radically reducing deployment team size & time required to implement production changes, at Macys Technology in the Order Management, direct to consumer space, via the following advancements:
-  * from SVN to Git - * Moved as part of a small team that brought GitLab Enterprise into Macys, helping many teams outside of my own migrate from SVN to Git in the process
+  * from SVN to Git - Moved as part of a small team that brought GitLab Enterprise into Macys, helping many teams outside of my own migrate from SVN to Git in the process
   * from branching anti-pattern, to modern trunk based development pattern of SCM backed by DORA SODOR analysis
   * from SOA, SOAP, XML services including some "mini-monolith" services to true containerized, 12-factor REST API microservices
   * from very basic CI, to advanced CI with compliance gates & modern declarative CD via Spinnaker & Helm
