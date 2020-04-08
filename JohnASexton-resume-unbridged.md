@@ -35,37 +35,27 @@
 **Macy's Technology, Duluth GA 2016-present** <br>
 **Title: Staff Software Engineer** <br>
 _Previous Titles: Staff DevOps Engineer, Lead DevOps Engineer, D2C DevOps Architecture & Systems Specialis, Development, D2C DevOps Architecture_
-
-* Drive Continuous Integration, Continuous Delivery and Continuous Deployment automation practices throughout Macys Systems & Technology as a thought leader
-* Define overarching DevOps Architecture
-* evaluate current level of DevOps Maturity against an objective DevOps Maturity Model
-* develop long term adoption road maps, for direct to consumer, core revenue, ordering, line of business.
-* Perform DevOps Engineering automation and integration tasks, as well as
-* implement and iteratively improve Configuration Management practice to realize previously mentioned architecture,
-* design and road map targets.
-* Manage key infrastructure components, including but not limited to: Chef, Cloudbees Jenkins Operations Center, RHEL Linux, JBoss, Maven, Artifactory, IBM Urban Code Deploy, BitBucket, GitLab, SVN, CA-Endevor, FishEye, Crucible, Sonarqube, Serenity, HP-ALM, Plutora, Dynatrace, Elasticsearch, Logstash, Kibana and Nagios.
-* Write, audit and modify code written in Ruby, Python, Perl, Bash for the purposes of Chef Cookbook authoring, and Jenkins automation and integration.
-* Fluent in markup, markdown protocols like JSON, YAML, XML, html, css, SOAP & REST. Work with public and private Cloud infrastructures, as well as
-* evaluate needs to drive change in the Cloud space.
-* Perform all the above across multiple technology stacks like Mainframe Cobol, Java EE, .Net, Mobile as well as define continuous delivery pipelines to validate "Infrastructure as Code" components like Chef Cookbooks.
-* Provide educational leadership via lunch & learns, Skype conferences, video recordings, and information radiators like Jira, Confluence, and blog posts to socialize out the emerging practices to the organization at large, as well as present ideas up to senior leadership.
-* DevOps Thought Leader, DevOps Evangelist, DevOps KeyNote Speaker for DevOpsATL Events,
-* co-created “Macys First DevOps Dojo” with DevOps Council,
-Esablished innersourcing model via the MOCHA Council, HR Talent Acquisition & L&D, co-chair of DevOps Core Council, member of MOCHA Steering Committee,
-* created Curated DevOps Content on Skillport with Learning & Development Team,
-* given Tech Talks on BDD using the Artemis Framework, Compuware ISPW and coming soon GitLab.
-* Delivered Stitching Sessions on DevOps, BDD, and Curated DevOps Content. Trained multiple D2C Teams on Git, GitLab Admin, and ServiceNow among many others.
-* Pushed for funding to get DevOps, OAs on multiple D2C Teams sent to Jenkins Conferences, and paid Chef Training courses.
-* DevOps Engineer having automated BAT, Smoke and Regression tests of our nonprod environments,
-* one of the initial drivers of Macy’s adoption of Compuware ISPW to modernize the mainframe and eliminate “bimodal IT” inefficiencies, socialized the cloud ready code definition that was used to drive RedFrog project away from SOA practices toward decomposed 12-factor microservices,
-* pushed development team to embrace feature toggle practices, * pushed team toward Agile Team model,
-* currently involved automating Java Continuous Delivery, onboarding all freestyle Jenkins jobs to groovy pipeline as code utilizing the Hermes Framework,
-* automating JBoss Property file delivery, automating TIBCO EMS provisioning, creating a Mainframe Continuous Integration platform for the first time ever at Macys, and starting to onboard MCHUB/RedFrog applications into the Zeus framework for multicloud provisioning.
-* Involved with Release Mgmt for OC/OM & RedFrog as a backup Release Manager, or backup OA during releases. Also
-* pushing multiple process improvement projects in the release management area like timeline and toll gate standards,
-* improved automation, transitioning OA tasks to delivery teams to enable self service & remove bottlenecks, improving environment provisioning practices to eliminate prod and nonprod parity issues.
-Function as GitMaster for OC/OM & RedFrog Team.
-* Manage all source code activities with the DevOps team. Established new Team practice of using the  “gitflow” branching and merging design pattern. Perform all FEATURE and RELEASE branch creation while performing and presiding over merges and merge conflict resolution task assignment in GitLab.
+* Led large-scale Digital Transformation effort, migrating 100+ Java services from CI only, to Continuous Deployment design patterns, accelerating deployment cadence from every 2 months during late night change windows, with a large team engaged for many hours, to any business day or hour with only 1 SRE, 1 DEV & 1 Tester as deployment team
+* Drove team from entirely on-prem Datacenter operations to partially, then fully embrace cloud native approaches
+* Defined overarching DevOps Architecture of Continuous Integration, Continuous Delivery, and Continuous Deployment automation practices at Macys Technology in the Order Management, direct to consumer area
+* Worked with Agile thought leaders to reorganize large monolithic development team with 100+ members, toward Agile Team model, which ended up being named "Delivery Teams"
+* Co-chaired DevOps Core Council, which planned activities for the DevOps Council community of practice within Macys to collect, socialize and spread DevOps best-practices throughout footprint
+* Co-created “Macys First DevOps Dojo” with DevOps Council
+* Established inner-sourcing Enterprise code sharing model using GitLab Enterprise on company intranet
+* Engineered Continuous Testing model as part of achieving Continuous Delivery paradigm
+* Moved team away from branching & merging anti-pattern, away from Subversion (SVN), and was part of a small team that brought GitLab Enterprise into Macys, helping many teams outside of my own migrate from SVN to Git in the process
+* Socialized cloud native code definition with Development teams, that was used to drive greenfield development projects away from SOA / SOAP / XML practices toward properly decomposed 12-factor REST microservices
+* Migrated team from Test Driven Development TDD paradigm, to Behavior Driven Development BDD paradigm & gave Enterprise Tech Talk from boardroom on the subject following our team's successful implementation as role model
+* Encouraged development team to embrace feature toggle practices, and provided multiple key:value stores for both Legacy and GCP Native applications that developers could manage themselves via self-service via Zookeeper & Kubernetes-configmaps
+* Converted all freestyle Jenkins jobs to declarative groovy DSL pipeline as code
+* Integrated Atlassian FishEye, GitLab Enterprise and Atlassian Jira, while enforcing Jira Story was present in every commit and branch, resulting in every branch or commit reporting back to Jira story to resulting in traceability of assigned work to actual development effort observability across all roles
+* implemented and iteratively improved Configuration Management practice using Opscode Chef and Django API translation layer to achieve multi-cloud provisioning while writing against a single internal API framework at VM level
+* Automated Enterprise APIs cross-organizationally using: Chef, Docker, Jenkins, vCloud, SoftLayer, JBoss, Maven, Artifactory, IBM Urban Code Deploy, GitLab Enterprise, GitLab Community, FishEye, Crucible, Sonarqube, Checkmarx, Serenity, HP-ALM, Plutora, Dynatrace, Elasticsearch, Logstash, Kibana and Nagios to achieve quality gating, compliance while eliminating manual processes and delays
+* Provided educational leadership via Boardroom Tech Talks, DevOpsATL Meetups hosted on Macys premises, lunch & learns, Skype conferences, video recordings, and information radiators like Jira, Confluence, git book wiki pages, and blog posts to socialize out the emerging practices to the organization at large, as well as present ideas up to senior leadership
+* Continuously evaluated/re-evaluated current level of DevOps Maturity against an objective DevOps Maturity Model
+* Developed long term adoption road maps, for direct to consumer, core revenue, ordering, line of business
+* Quantified results via Value Stream Mapping & Platform metrics
+* Created Curated DevOps Content playlists on Skillport LMS portal in conjunction with Learning & Development organization
 
 **Verizon, Alpharetta, GA 2013 – 2015** <br>
 **Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
