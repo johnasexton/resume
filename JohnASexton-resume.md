@@ -42,20 +42,23 @@ _Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Arc
   * From very basic CI to advanced CI, with compliance gates & modern declarative CD via Spinnaker & Helm
   * From 1000+ handcrafted VMs to 100% defined as Ruby code in Chef Cookbooks
   * From 100% on-prem DataCenter to all lower lifecycle environments in GCE, to all greenfield projects in GKE via Docker / Kubernetes
-* Worked with Agile Coach & Leadership to reorganize large monolithic development team with 100+ members, toward Agile Team model, which ended up being called "Macys Delivery Teams"
 * Converted all freestyle Jenkins jobs to declarative groovy DSL pipeline as code
-* Migrated team from Test Driven Development TDD paradigm, to Behavior Driven Development BDD paradigm & gave Enterprise Tech Talk from boardroom on the subject following our team's successful implementation as role model
-* Engineered platforms that moved from fixed property files, not even under source control, to dynamic feature toggle practices, providing multiple key:value stores for both Legacy and Cloud Native applications that developers could manage themselves via self-service using Zookeeper & Kubernetes-configmaps
-* Integrated Atlassian FishEye, GitLab Enterprise and Atlassian Jira, while enforcing Jira Story was present in every commit and branch, resulting in every branch or commit reporting back to Jira story to resulting in traceability of assigned work to actual development effort observability across all roles
+* Migrated team from Test Driven Development TDD to Behavior Driven Development BDD paradigm
+* Engineered platforms from fixed property files to dynamic feature toggle practices
+* Provided multiple key:value stores for both Legacy and Cloud Native applications that developers could manage themselves via self-service using Zookeeper & Kubernetes-configmaps
+* Integrated Atlassian FishEye and Jira with GitLab Enterprise to establish full traceability and visibility from story to feature branch to commit
 * implemented and iteratively improved Configuration Management practice using Opscode Chef and Django API translation layer to achieve multi-cloud provisioning while writing against a single internal API framework at VM level
-* Co-chaired DevOps Core Council, which planned activities for the DevOps Council community of practice within Macys to collect, socialize and spread DevOps best-practices throughout footprint
-* Co-created “Macys First DevOps Dojo” with DevOps Council
-* Established inner-sourcing Enterprise code sharing model using GitLab Enterprise on company intranet
-* Continuously evaluated/re-evaluated current level of DevOps Maturity against an objective DevOps Maturity Model
-* Developed long term adoption road maps, for direct to consumer, core revenue, ordering, line of business
-* Quantified results via Value Stream Mapping & Platform metrics
-* Gave KeyNote talk at DevOpsATL Meetups hosted in the largest Macys Collaboration Space on Macys Technology campus
-* Created Curated DevOps Content playlists on Skillport LMS portal in conjunction with Learning & Development organization
+* DevOps Thought Leadership efforts:
+  * Collaborated with Agile Coach to reorganize monolithic development team into cross-functional "Macys Delivery Teams"
+  * Co-chaired DevOps Core Council, which planned activities for the DevOps Council community of practice within Macys to collect, socialize and spread DevOps best-practices throughout footprint
+  * Co-created “Macys First DevOps Dojo” with DevOps Council
+  * Established inner-sourcing Enterprise code sharing model using GitLab Enterprise on company intranet
+  * Continuously evaluated/re-evaluated current level of DevOps Maturity against an objective DevOps Maturity Model
+  * Developed long term adoption road maps, for direct to consumer, core revenue, ordering, line of business
+  * Quantified results via Value Stream Mapping & Platform metrics
+  * Gave KeyNote talk at DevOpsATL Meetups hosted in the largest Macys Collaboration Space on Macys Technology campus
+  * Delivered Enterprise Tech Talk from boardroom on the subject following our team's successful implementation as role model
+  * Created Curated DevOps Content playlists on Skillport LMS portal in conjunction with Learning & Development organization
 
 **Verizon, Enterprise Professional Services BI, Alpharetta, GA 2013 – 2015** <br>
 **Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
