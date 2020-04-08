@@ -41,6 +41,10 @@ _Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Arc
   * From legacy SOA, SOAP, XML services to true containerized, 12-factor REST API microservices
   * From very basic CI to advanced CI, with compliance gates & modern declarative CD via Spinnaker & Helm
   * From 1000+ handcrafted VMs to 100% defined as Ruby code in Chef Cookbooks
+  * From no containers on-prem to a cloud native, container orchestration practice via Docker, Helm, Kubernetes & GKE
+  * from no observability to whitebox/blackbox monitoring via Stackdriver, Prometheus & Grafana
+  * from no IaC practice, to Terraform provisioned Kubernetes, Spanner, Datastore, PubSub, CloudTasks, Dataflow self-service
+  * from 100% human monitoring to automated alerting to fully automated Prometheus alert-manager & PagerDuty incident response
   * From 100% on-prem DataCenter to all lower lifecycle environments in GCE, to all greenfield projects in GKE via Docker / Kubernetes
 * Led other key engineering initiatives:
   * Converted all freestyle Jenkins jobs to declarative groovy DSL pipeline as code, reducing manual touch & enabling self-provisioning
@@ -59,7 +63,7 @@ _Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Arc
 * KeyNotes and Training:
   * DevOpsATL Nov 2016: _Building High Trust DevOps Cultures at Enterprise Scale_
   * Macys Boardroom Tech Talk Aug 2017: _Behavior Driven Development_
-  * Created Curated DevOps Content playlists on Skillport LMS portal in conjunction with Learning & Development organization
+  * Created Curated DevOps Content playlists on Skillport LMS portal
 
 **Verizon, Enterprise Professional Services BI, Alpharetta, GA 2013 – 2015** <br>
 **Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
