@@ -98,7 +98,7 @@ _Previous Titles: "Senior Systems Architect & Senior Systems Administrator (MTS-
 * Earned Macys Make Magic Award for DevOps Thought Leadership in 2016 resulting in out of cycle bonus
 * Earned Macys Make Magic Award for CA-Endevor to Compuware ISPW source control management code migration for Mainframe 2018 resulting in out of cycle bonus
 
-##### Verizon 
+##### Verizon
 * Earned 5 CIO recognitions at Verizon in the last 2 years in a company of over 16,000 IT employees resulting in out of cycle spot bonuses
 * Team of 5 awarded 1st place in annual "Verizon DevOps Challenge", judged by internal DevOps Council, and external cloud industry judges from Microsoft, IBM, Mirantis, and Pivotal
 * Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon by virtualizing 120+ services in a single day
