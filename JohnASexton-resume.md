@@ -42,12 +42,13 @@ _Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Arc
   * From very basic CI to advanced CI, with compliance gates & modern declarative CD via Spinnaker & Helm
   * From 1000+ handcrafted VMs to 100% defined as Ruby code in Chef Cookbooks
   * From 100% on-prem DataCenter to all lower lifecycle environments in GCE, to all greenfield projects in GKE via Docker / Kubernetes
-* Converted all freestyle Jenkins jobs to declarative groovy DSL pipeline as code, reducing manual touch & enabling self-provisioning
-* Migrated team from Test Driven Development TDD to Behavior Driven Development BDD paradigm
-* Engineered platforms from fixed property files to dynamic feature toggle practices
-* Provided multiple key:value stores for both Legacy and Cloud Native applications using Zookeeper & Kubernetes-configmaps
-* Integrated Atlassian FishEye and Jira with GitLab Enterprise to establish full traceability and visibility from story to feature branch to commit
-* implemented and iteratively improved Configuration Management practice using Opscode Chef and Django API translation layer to achieve multi-cloud provisioning while writing against a single internal API framework at VM level
+* Led other key engineering initiatives:
+  * Converted all freestyle Jenkins jobs to declarative groovy DSL pipeline as code, reducing manual touch & enabling self-provisioning
+  * Migrated team from Test Driven Development TDD to Behavior Driven Development BDD paradigm
+  * Engineered platforms from fixed property files to dynamic feature toggle practices
+  * Provided multiple key:value stores for both Legacy and Cloud Native applications using Zookeeper & Kubernetes-configmaps
+  * Integrated Atlassian FishEye and Jira with GitLab Enterprise to establish full traceability and visibility from story to feature branch to commit
+  * implemented and iteratively improved Configuration Management practice using Opscode Chef and Django API translation layer to achieve multi-cloud provisioning while writing against a single internal API framework at VM level
 * DevOps Thought Leadership efforts:
   * Continuously evaluated/re-evaluated current level of DevOps Maturity against an objective DevOps Maturity Model
   * Developed long term Platform Engineering road maps and quantified results via Value Stream Mapping & Platform metrics
