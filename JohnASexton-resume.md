@@ -39,9 +39,9 @@ _Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Arc
   * From SVN to Git - Co-led small team that rolled out GitLab Enterprise to entire Macys Technology footprint
   * From branching anti-pattern to modern trunk based development pattern
   * From legacy SOA, SOAP, XML services to true containerized, 12-factor REST API microservices
-  * From very basic CI to advanced CI, with compliance gates & modern declarative CD via Spinnaker & Helm
+  * From very basic CI to advanced CI, with compliance gates & modern declarative CD via Spinnaker
   * From 1000+ handcrafted VMs to 100% defined as Ruby code in Chef Cookbooks
-  * From no containers on-prem to a cloud native, container orchestration practice via Docker, Helm, Kubernetes & GKE
+  * From no containers on-prem to a cloud native, container orchestration practice via Docker, Helm, Spinnaker, Kubernetes & GKE
   * From no observability to whitebox/blackbox monitoring via Stackdriver, Prometheus & Grafana
   * From no IaC practice, to Terraform provisioned Kubernetes, Spanner, Datastore, PubSub, CloudTasks, Dataflow self-service
   * From 100% human monitoring to automated Prometheus alert-manager alerts firing PagerDuty incident response incidents
