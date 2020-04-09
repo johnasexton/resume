@@ -63,12 +63,12 @@ _Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Arc
   * DevOpsATL Nov 2016: _Building High Trust DevOps Cultures at Enterprise Scale_
   * Macys Boardroom Tech Talk Aug 2017: _Behavior Driven Development_
   * Co-created “Macys First DevOps Dojo” with DevOps Council  
-  * Created Curated DevOps Content playlists on Skillport LMS portal
+  * Created curated DevOps content playlists on Skillport LMS portal
 
 **Verizon, Enterprise Professional Services BI, Alpharetta, GA 2013 – 2015** <br>
 **Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
 _Verizon, Tampa, FL 2000-2012_ <br>
-_Previous Titles: "Senior Systems Architect & Senior Systems Administrator (MTS-III)", "Senior Systems Administrator (MTS-II)"", "Systems Administrator (MTS-I)"_
+_Previous Titles: "Senior Systems Architect & Senior Systems Administrator (MTS-III)", "Senior Systems Administrator (MTS-II), "Systems Administrator (MTS-I)"_
 * Led large-scale Digital Transformation effort, migrating 120+ Java services from CI only, to Continuous Deployment design patterns, accelerating deployment cadence from every 2 months during late night change windows, to multiple times a day during prime business hours
 * Reorganized Planning, Development, Testing and Ops silos into smaller cross-functional "Verizon Pods" inspired by "Amazon 2 Pizza Teams" and "Spotify Squads", resulting in right sizing teams to initiatives, increased crossing and embedding, reducing blame, which improved collaboration and affinity, which in turn increased development velocity
 * Developed Jenkins continuous integration (CI), continuous delivery and continuous deployment (CD) automations, integrating business processes, SDLC governance, disaster recovery, test automation, enterprise monitoring, and configuration management for WAN scope applications used by Verizon SalesForce SFDC Team, servicing Enterprise Customers
