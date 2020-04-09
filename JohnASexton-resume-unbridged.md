@@ -31,31 +31,39 @@
 ### SUMMARY
 > Staff Software Engineer specializing in Digital Transformation, Site Reliability Engineering (SRE) and DevOps Architectures; Establishing configuration management, Infrastructure as Code (IaC), source control management (SCM), branching and merging design patterns, metrics collection, observability, audit, compliance, test automation, and security compliance practices, in large enterprise, mission critical and core revenue environments; Servicing geographically dispersed systems and teams, utilizing Agile methodologies like Kanban, Scrum & Lean; Leveraging best in class industry standard practices as defined by CNCF & quantified by industry white-papers like the annual DORA State of DevOps Report
 
-### PROFESSIONAL EXPERIENCE <br><br>
-**Macy's Technology, Duluth GA 2016-present** <br>
-**Title: Staff Software Engineer** <br>
-_Previous Titles: Staff DevOps Engineer, Lead DevOps Engineer, D2C DevOps Architecture & Systems Specialis, Development, D2C DevOps Architecture_
-* Led large-scale Digital Transformation effort, migrating 100+ Java services from CI only, to Continuous Deployment design patterns, accelerating deployment cadence from every 2 months during late night change windows, with a large team engaged for many hours, to any business day or hour with only 1 SRE, 1 DEV & 1 Tester as deployment team
-* Drove team from entirely on-prem Datacenter operations to partially, then fully embrace cloud native approaches
-* Defined overarching DevOps Architecture of Continuous Integration, Continuous Delivery, and Continuous Deployment automation practices at Macys Technology in the Order Management, direct to consumer area
-* Worked with Agile thought leaders to reorganize large monolithic development team with 100+ members, toward Agile Team model, which ended up being named "Delivery Teams"
-* Co-chaired DevOps Core Council, which planned activities for the DevOps Council community of practice within Macys to collect, socialize and spread DevOps best-practices throughout footprint
-* Co-created “Macys First DevOps Dojo” with DevOps Council
-* Established inner-sourcing Enterprise code sharing model using GitLab Enterprise on company intranet
-* Engineered Continuous Testing model as part of achieving Continuous Delivery paradigm
-* Moved team away from branching & merging anti-pattern, away from Subversion (SVN), and was part of a small team that brought GitLab Enterprise into Macys, helping many teams outside of my own migrate from SVN to Git in the process
-* Socialized cloud native code definition with Development teams, that was used to drive greenfield development projects away from SOA / SOAP / XML practices toward properly decomposed 12-factor REST microservices
-* Migrated team from Test Driven Development TDD paradigm, to Behavior Driven Development BDD paradigm & gave Enterprise Tech Talk from boardroom on the subject following our team's successful implementation as role model
-* Encouraged development team to embrace feature toggle practices, and provided multiple key:value stores for both Legacy and GCP Native applications that developers could manage themselves via self-service via Zookeeper & Kubernetes-configmaps
-* Converted all freestyle Jenkins jobs to declarative groovy DSL pipeline as code
-* Integrated Atlassian FishEye, GitLab Enterprise and Atlassian Jira, while enforcing Jira Story was present in every commit and branch, resulting in every branch or commit reporting back to Jira story to resulting in traceability of assigned work to actual development effort observability across all roles
-* implemented and iteratively improved Configuration Management practice using Opscode Chef and Django API translation layer to achieve multi-cloud provisioning while writing against a single internal API framework at VM level
-* Automated Enterprise APIs cross-organizationally using: Chef, Docker, Jenkins, vCloud, SoftLayer, JBoss, Maven, Artifactory, IBM Urban Code Deploy, GitLab Enterprise, GitLab Community, FishEye, Crucible, Sonarqube, Checkmarx, Serenity, HP-ALM, Plutora, Dynatrace, Elasticsearch, Logstash, Kibana and Nagios to achieve quality gating, compliance while eliminating manual processes and delays
-* Provided educational leadership via Boardroom Tech Talks, DevOpsATL Meetups hosted on Macys premises, lunch & learns, Skype conferences, video recordings, and information radiators like Jira, Confluence, git book wiki pages, and blog posts to socialize out the emerging practices to the organization at large, as well as present ideas up to senior leadership
-* Continuously evaluated/re-evaluated current level of DevOps Maturity against an objective DevOps Maturity Model
-* Developed long term adoption road maps, for direct to consumer, core revenue, ordering, line of business
-* Quantified results via Value Stream Mapping & Platform metrics
-* Created Curated DevOps Content playlists on Skillport LMS portal in conjunction with Learning & Development organization
+### PROFESSIONAL EXPERIENCE <br>
+**Macys Technology, Retail Order Management, Duluth GA 2016-present** <br>
+**Staff Software Engineer** <br>
+_Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Architecture" and "Systems Specialist, Development, D2C DevOps Architecture"_
+* Led large-scale Digital Transformation effort, migrating 100+ Java services from CI, to CICD, accelerating deployment cadence from every 2 months to daily, radically reducing deployment team effort required to implement production changes. Implemented following advancements:
+  * From SVN to Git - Co-led small team that rolled out GitLab Enterprise to entire Macys Technology footprint
+  * From branching anti-pattern to modern trunk based development pattern
+  * From legacy SOA, SOAP, XML services to true containerized, 12-factor REST API microservices
+  * From very basic CI to advanced CI, with compliance gates & modern declarative CD via Spinnaker & Helm
+  * From 1000+ handcrafted VMs to 100% defined as Ruby code in Chef Cookbooks
+  * From no containers on-prem to a cloud native, container orchestration practice via Docker, Helm, Kubernetes & GKE
+  * From no observability to whitebox/blackbox monitoring via Stackdriver, Prometheus & Grafana
+  * From no IaC practice, to Terraform provisioned Kubernetes, Spanner, Datastore, PubSub, CloudTasks, Dataflow self-service
+  * From 100% human monitoring to automated Prometheus alert-manager alerts firing PagerDuty incident response incidents
+  * From 100% on-prem DataCenter to all lower lifecycle environments in GCE, to all greenfield projects in GKE via Docker / Kubernetes
+* Led other key engineering initiatives:
+  * Converted all freestyle Jenkins jobs to declarative groovy DSL pipeline as code, reducing manual touch & enabling self-provisioning
+  * Migrated team from Test Driven Development TDD to Behavior Driven Development BDD paradigm
+  * Engineered platforms from fixed property files to dynamic feature toggle practices
+  * Provided multiple key:value stores for both Legacy and Cloud Native applications using Zookeeper & Kubernetes-configmaps
+  * Integrated Atlassian FishEye and Jira with GitLab Enterprise to establish full traceability and visibility from story to feature branch to commit
+  * implemented and iteratively improved Configuration Management practice using Opscode Chef and Django API translation layer to achieve multi-cloud provisioning while writing against a single internal API framework at VM level
+* DevOps Thought Leadership efforts:
+  * Continuously evaluated/re-evaluated current level of DevOps Maturity against an objective DevOps Maturity Model
+  * Developed long term Platform Engineering road maps and quantified results via Value Stream Mapping & Platform metrics
+  * Collaborated with Agile Coach to reorganize single function team silos into cross-functional "Macys Delivery Teams"
+  * Established inner-sourcing Enterprise code sharing model using GitLab Enterprise on company intranet
+  * Co-chaired DevOps Core Council, planning activities for the DevOps community of practice to socialize DevOps best-practices throughout Macys Technology
+* KeyNotes and Training:
+  * DevOpsATL Nov 2016: _"Building High Trust DevOps Cultures at Enterprise Scale"_
+  * Macys Boardroom Tech Talk Aug 2017: _"Behavior Driven Development"_
+  * Macys Event: Co-created and gave KeyNote: _“Macys First DevOps Dojo”_ with DevOps Council  
+  * Macy's Technology Playlists: Created curated _"DevOps"_ content playlists on Skillport Training portal
 
 **Verizon, Alpharetta, GA 2013 – 2015** <br>
 **Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
@@ -115,17 +123,17 @@ _Title: Technical Representative (contractor for IBM) on SOWs for Merrill Lynch,
 
 ### PROFESSIONAL AWARDS
 ##### Macys
-* Earned Macys Make Magic Award for DevOps Thought Leadership in 2016 resulting in out of cycle bonus
-* Earned Macys Make Magic Award for CA-Endevor to Compuware ISPW source control management code migration for Mainframe 2018 resulting in out of cycle bonus
+* Earned two Macys "Make Magic Awards" which honor about 200 out of 4000 IT employees
+  * Macys Make Magic Award for DevOps Thought Leadership in 2016
+  * Macys Make Magic Award for CA-Endevor to Compuware ISPW scm migration in 2018
 
 ##### Verizon
-* Earned 6 CIO/VP recognitions at Verizon in the last 3 years in a company of over 16,000 IT employees resulting in out of cycle spot bonuses
-* Team of 5 awarded 1st place in annual "Verizon DevOps Challenge", judged by internal DevOps Council, and external cloud industry judges from Microsoft, IBM, Mirantis, and Pivotal
-* Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon by virtualizing 120+ services in a single day
-* Performed regulatory compliance officer role for multiple large application portfolios - security scan audits, remediation, PCI/SOX, and GSAM compliance certification
-* Migrated a legacy revenue application & decommissioned legacy systems to remediate security vulnerabilities
-* Remediated 53 critical security vulnerabilities in 30 days, clearing a poorly maintained, inherited, PCI/SOX-compliant application suite
-* Received VP "Run Toward the Fire" recognition at Executive Town Hall for datacenter migration crisis management
+* Earned 5 CIO recognitions at Verizon in the last 2 years in a company of over 16,000 IT employees
+  * Team of 5 awarded 1st place in annual "Verizon DevOps Challenge", judged by internal DevOps Council, and external cloud industry judges from Microsoft, IBM, Mirantis, and Pivotal
+  * Led the team awarded 3rd place in a CA-LISA Service Virtualization Hack-a-thon by virtualizing 120+ services in a single day
+  * Performed regulatory compliance officer role for multiple large application portfolios - security scan audits, remediation, PCI/SOX, and GSAM compliance certification
+  * Migrated a legacy revenue application & decommissioned legacy systems to remediate security vulnerabilities
+  * Remediated 53 critical security vulnerabilities in 30 days, clearing a poorly maintained, inherited, PCI/SOX-compliant application suite
 
 ### PROFESSIONAL DEVELOPMENT
 <table>

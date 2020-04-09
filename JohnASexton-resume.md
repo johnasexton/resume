@@ -60,10 +60,10 @@ _Previous Titles: "Staff DevOps Engineer", "Lead DevOps Engineer, D2C DevOps Arc
   * Established inner-sourcing Enterprise code sharing model using GitLab Enterprise on company intranet
   * Co-chaired DevOps Core Council, planning activities for the DevOps community of practice to socialize DevOps best-practices throughout Macys Technology
 * KeyNotes and Training:
-  * DevOpsATL Nov 2016: _Building High Trust DevOps Cultures at Enterprise Scale_
-  * Macys Boardroom Tech Talk Aug 2017: _Behavior Driven Development_
-  * Co-created “Macys First DevOps Dojo” with DevOps Council  
-  * Created curated DevOps content playlists on Skillport LMS portal
+  * DevOpsATL Nov 2016: _"Building High Trust DevOps Cultures at Enterprise Scale"_
+  * Macys Boardroom Tech Talk Aug 2017: _"Behavior Driven Development"_
+  * Macys Event: Co-created and gave KeyNote: _“Macys First DevOps Dojo”_ with DevOps Council  
+  * Macy's Technology Playlists: Created curated _"DevOps"_ content playlists on Skillport Training portal
 
 **Verizon, Enterprise Professional Services BI, Alpharetta, GA 2013 – 2015** <br>
 **Lead Systems Architect & Senior Systems Administrator (MTS-IV)** <br>
