@@ -140,7 +140,7 @@ _Previous Titles: "Senior Systems Architect & Senior Systems Administrator (MTS-
 <tr>
 <td>Google Cloud Next '18</td>
 <td>DevOps Days 2019</td>
-<td>Jenkins-X 2019</td>
+<td>Cloudbees Days & Jenkins-X 2019</td>
 </tr>
 
 <tr>
